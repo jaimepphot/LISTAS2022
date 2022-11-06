@@ -217,7 +217,7 @@ http://a1.3frpp.top/qw643/654grth5r/131
 http://a1.3frpp.top/qw643/654grth5r/132
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CINE Y SERIES",CALLE 13 HD
 http://a1.3frpp.top/qw643/654grth5r/133
-#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="CALLE 13 FHD" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg" group-title="CINE Y SERIES",CALLE 13 FHD
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="CALLE 13 FHD"" group-title="CINE Y SERIES",CALLE 13 FHD
 http://a1.3frpp.top/qw643/654grth5r/134
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE SD" tvg-logo="" group-title="CINE Y SERIES",SUNDANCE SD
 http://a1.3frpp.top/qw643/654grth5r/135
@@ -235,7 +235,7 @@ http://a1.3frpp.top/qw643/654grth5r/140
 http://a1.3frpp.top/qw643/654grth5r/141
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="CINE Y SERIES",AXN WHITE HD
 http://a1.3frpp.top/qw643/654grth5r/142
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE Y SERIES",AXN WHITE FHD
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD"" group-title="CINE Y SERIES",AXN WHITE FHD
 http://a1.3frpp.top/qw643/654grth5r/143
 #EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="CINE Y SERIES",TNT SD
 http://a1.3frpp.top/qw643/654grth5r/144
@@ -263,9 +263,9 @@ http://a1.3frpp.top/qw643/654grth5r/154
 http://a1.3frpp.top/qw643/654grth5r/155
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",ENERGY HD
 http://a1.3frpp.top/qw643/654grth5r/157
-#EXTINF:-1 tvg-id="fdftelecinco.es" tvg-name="FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FDF_Telecinco.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF SD
+#EXTINF:-1 tvg-id="fdftelecinco.es" tvg-name="FDF SD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",FDF SD
 http://a1.3frpp.top/qw643/654grth5r/158
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FDF_Telecinco.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF HD
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF HD" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",FDF HD
 http://a1.3frpp.top/qw643/654grth5r/159
 #EXTINF:-1 tvg-id="" tvg-name="XTRM SD" tvg-logo="" group-title="CINE Y SERIES",XTRM SD
 http://a1.3frpp.top/qw643/654grth5r/160
@@ -283,7 +283,7 @@ http://a1.3frpp.top/qw643/654grth5r/168
 http://a1.3frpp.top/qw643/654grth5r/169
 #EXTINF:-1 tvg-id="NOVA FHD" tvg-name="NOVA HD" tvg-logo="https://thp.org.au/wp-content/uploads/2019/06/Nova-logo.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA HD
 http://a1.3frpp.top/qw643/654grth5r/170
-#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/2560px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES",M+ #0 SD
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M+ #0 SD" tvg-logo="" group-title="CINE Y SERIES",M+ #0 SD
 http://a1.3frpp.top/qw643/654grth5r/171
 #EXTINF:-1 tvg-id="" tvg-name="M+ #0 HD" tvg-logo="" group-title="CINE Y SERIES",M+ #0 HD
 http://a1.3frpp.top/qw643/654grth5r/172
@@ -303,8 +303,6 @@ http://a1.3frpp.top/qw643/654grth5r/178
 http://a1.3frpp.top/qw643/654grth5r/179
 #EXTINF:-1 tvg-id="TRECE" tvg-name="M+ TRECE HD" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2005-2012-logo-CF87FBA249-seeklogo.com.png" group-title="CINE Y SERIES",M+ TRECE HD
 http://a1.3frpp.top/qw643/654grth5r/180
-#EXTINF:-1 tvg-id="Somos" tvg-name="M+CLASICOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tve_canal_clasico.png" group-title="CINE Y SERIES",M+CLASICOS HD
-http://a1.3frpp.top/qw643/654grth5r/181
 #EXTINF:-1 tvg-id="" tvg-name="M+ NAUTICAL SD" tvg-logo="" group-title="DOCUMENTALES",M+ NAUTICAL SD
 http://a1.3frpp.top/qw643/654grth5r/270
 #EXTINF:-1 tvg-id="" tvg-name="M+ NAUTICAL HD" tvg-logo="" group-title="DOCUMENTALES",M+ NAUTICAL HD
@@ -705,8 +703,6 @@ http://a1.3frpp.top/qw643/654grth5r/2058
 http://a1.3frpp.top/qw643/654grth5r/2057
 #EXTINF:-1 tvg-id="" tvg-name=" Alba XXX 1" tvg-logo="" group-title="CINE +18", Alba XXX 1
 http://a1.3frpp.top/qw643/654grth5r/2056
-#EXTINF:-1 tvg-id="" tvg-name="  Beate Uhse.TV" tvg-logo="" group-title="CINE +18",  Beate Uhse.TV
-http://a1.3frpp.top/qw643/654grth5r/2055
 #EXTINF:-1 tvg-id="" tvg-name=" Mia Khalifa" tvg-logo="" group-title="CINE +18", Mia Khalifa
 http://a1.3frpp.top/qw643/654grth5r/2054
 #EXTINF:-1 tvg-id="" tvg-name=" Little Caprice" tvg-logo="" group-title="CINE +18", Little Caprice
