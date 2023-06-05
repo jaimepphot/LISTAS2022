@@ -1,0 +1,579 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA 1" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA 1
+http://s21tv.co:80/F070394/876726/280436
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA 1 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA 1 HD
+http://s21tv.co:80/F070394/876726/280437
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA 1 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA 1 FHD
+http://s21tv.co:80/F070394/876726/280438
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 2" tvg-logo="" group-title="TELEVISION DIGITAL TERRESTRE",|ES| LA 2
+http://s21tv.co:80/F070394/876726/371295
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  La 2 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  La 2 FHD
+http://s21tv.co:80/F070394/876726/280441
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 2 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| LA 2 HD
+http://s21tv.co:80/F070394/876726/280439
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  ANTENA 3" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  ANTENA 3
+http://s21tv.co:80/F070394/876726/280442
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  ANTENA 3 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  ANTENA 3 FHD
+http://s21tv.co:80/F070394/876726/280444
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  ANTENA 3 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  ANTENA 3 HD
+http://s21tv.co:80/F070394/876726/280443
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  CUATRO FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  CUATRO FHD
+http://s21tv.co:80/F070394/876726/280447
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  CUATRO HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  CUATRO HD
+http://s21tv.co:80/F070394/876726/280446
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  CUATRO" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  CUATRO
+http://s21tv.co:80/F070394/876726/280445
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELECINCO" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  TELECINCO
+http://s21tv.co:80/F070394/876726/280569
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELECINCO FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  TELECINCO FHD
+http://s21tv.co:80/F070394/876726/280448
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA SEXTA" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA SEXTA
+http://s21tv.co:80/F070394/876726/280449
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA SEXTA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA SEXTA HD
+http://s21tv.co:80/F070394/876726/280450
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LA SEXTA FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  LA SEXTA FHD
+http://s21tv.co:80/F070394/876726/280451
+#EXTINF:-1 tvg-id="" tvg-name="|ES| A3 SERIES HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| A3 SERIES HD
+http://s21tv.co:80/F070394/876726/280452
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NEOX FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  NEOX FHD
+http://s21tv.co:80/F070394/876726/280580
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  Mega FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  Mega FHD
+http://s21tv.co:80/F070394/876726/280579
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SUNDANCE TV" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| SUNDANCE TV
+http://s21tv.co:80/F070394/876726/280541
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NOVA" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  NOVA
+http://s21tv.co:80/F070394/876726/280538
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NEOX" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  NEOX
+http://s21tv.co:80/F070394/876726/280533
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FDF" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| FDF
+http://s21tv.co:80/F070394/876726/280521
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| ENERGY" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| ES| ENERGY
+http://s21tv.co:80/F070394/876726/280516
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DIVINITY" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  DIVINITY
+http://s21tv.co:80/F070394/876726/280515
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  BE MAD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  BE MAD
+http://s21tv.co:80/F070394/876726/280512
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TV GALICIA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  TV GALICIA HD
+http://s21tv.co:80/F070394/876726/280501
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FDF HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| FDF HD
+http://s21tv.co:80/F070394/876726/280496
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ENERGY HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| ENERGY HD
+http://s21tv.co:80/F070394/876726/280495
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  MEGA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  MEGA HD
+http://s21tv.co:80/F070394/876726/280490
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NOVA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  NOVA HD
+http://s21tv.co:80/F070394/876726/280473
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NEOX HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  NEOX HD
+http://s21tv.co:80/F070394/876726/280472
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVE INTERNACIONAL HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| TVE INTERNACIONAL HD
+http://s21tv.co:80/F070394/876726/280469
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  24 HORAS HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  24 HORAS HD
+http://s21tv.co:80/F070394/876726/280467
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  BE MAD HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  BE MAD HD
+http://s21tv.co:80/F070394/876726/280465
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  ARAGON TV INT HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  ARAGON TV INT HD
+http://s21tv.co:80/F070394/876726/280464
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELECINCO HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  TELECINCO HD
+http://s21tv.co:80/F070394/876726/280462
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  CANAL SUR A." tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  CANAL SUR A.
+http://s21tv.co:80/F070394/876726/280382
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  ARAGON TV INT" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  ARAGON TV INT
+http://s21tv.co:80/F070394/876726/280371
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  24 HORAS" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES|  24 HORAS
+http://s21tv.co:80/F070394/876726/280369
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Euronews en Españo" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Euronews en Españo
+http://s21tv.co:80/F070394/876726/280578
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Teleonuba" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Teleonuba
+http://s21tv.co:80/F070394/876726/280575
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Telepacifico Colombia" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Telepacifico Colombia
+http://s21tv.co:80/F070394/876726/280574
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Canal TRO Colombia" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Canal TRO Colombia
+http://s21tv.co:80/F070394/876726/280573
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Canal Capital Colombia" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Canal Capital Colombia
+http://s21tv.co:80/F070394/876726/280571
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX NEWS " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| FOX NEWS 
+http://s21tv.co:80/F070394/876726/280517
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TRECE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| TRECE HD 
+http://s21tv.co:80/F070394/876726/280471
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FOX NEWS HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| FOX NEWS HD 
+http://s21tv.co:80/F070394/876726/280468
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Canal 2000 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| Canal 2000 HD
+http://s21tv.co:80/F070394/876726/280262
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| LA 7 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="TELEVISION DIGITAL TERRESTRE",|ES| ES| LA 7 HD
+http://s21tv.co:80/F070394/876726/280258
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| NICKELODEON FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| NICKELODEON FHD
+http://s21tv.co:80/F070394/876726/280537
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| NICKELODEON" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| NICKELODEON
+http://s21tv.co:80/F070394/876726/280536
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  NICK JR" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES|  NICK JR
+http://s21tv.co:80/F070394/876726/280535
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| Baby TV" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| Baby TV
+http://s21tv.co:80/F070394/876726/280514
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BOING" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| BOING
+http://s21tv.co:80/F070394/876726/280513
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| CANAL PANDA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| CANAL PANDA HD
+http://s21tv.co:80/F070394/876726/280507
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BOING HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| BOING HD
+http://s21tv.co:80/F070394/876726/280506
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BABY TV HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| BABY TV HD
+http://s21tv.co:80/F070394/876726/280505
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| NICK JR HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| NICK JR HD
+http://s21tv.co:80/F070394/876726/280504
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NICKELODEON HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| NICKELODEON HD
+http://s21tv.co:80/F070394/876726/280503
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY JUNIOR HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| DISNEY JUNIOR HD
+http://s21tv.co:80/F070394/876726/280502
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| CLAN TVE HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| CLAN TVE HD
+http://s21tv.co:80/F070394/876726/280466
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| DreamWorks FHD
+http://s21tv.co:80/F070394/876726/280397
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DreamWorks" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| DreamWorks
+http://s21tv.co:80/F070394/876726/280396
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| DISNEY JR" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| DISNEY JR
+http://s21tv.co:80/F070394/876726/280395
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| DISNEY CH." tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| DISNEY CH.
+http://s21tv.co:80/F070394/876726/280394
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| DISNEY CH FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| ES| DISNEY CH FHD
+http://s21tv.co:80/F070394/876726/280393
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CLAN  TVE" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| CLAN  TVE
+http://s21tv.co:80/F070394/876726/280385
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Infantil HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| TVG Infantil HD
+http://s21tv.co:80/F070394/876726/280267
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CH HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="INFANTIL",|ES| DISNEY CH HD
+http://s21tv.co:80/F070394/876726/280259
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 1" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 1
+http://s21tv.co:80/F070394/876726/280269
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 1 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 1 HD
+http://s21tv.co:80/F070394/876726/280270
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 1 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 1 FHD
+http://s21tv.co:80/F070394/876726/280271
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 2" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 2
+http://s21tv.co:80/F070394/876726/280272
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 2 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 2 HD
+http://s21tv.co:80/F070394/876726/280273
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 2 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 2 FHD
+http://s21tv.co:80/F070394/876726/280274
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 3" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 3
+http://s21tv.co:80/F070394/876726/280275
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 3 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 3 HD
+http://s21tv.co:80/F070394/876726/280276
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 3 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 3 FHD
+http://s21tv.co:80/F070394/876726/280277
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 4" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 4
+http://s21tv.co:80/F070394/876726/280278
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 4 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 4 HD
+http://s21tv.co:80/F070394/876726/280279
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN 4 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN 4 FHD
+http://s21tv.co:80/F070394/876726/280280
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN F1" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN F1
+http://s21tv.co:80/F070394/876726/280281
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN F1 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN F1 HD
+http://s21tv.co:80/F070394/876726/280282
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  DAZN F1 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  DAZN F1 FHD
+http://s21tv.co:80/F070394/876726/280283
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Dazn LaLiga FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| Dazn LaLiga FHD
+http://s21tv.co:80/F070394/876726/420041
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Dazn LaLiga HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| Dazn LaLiga HD
+http://s21tv.co:80/F070394/876726/420040
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LA LIGA" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| DAZN LA LIGA
+http://s21tv.co:80/F070394/876726/420039
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Dazn LaLiga 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ Dazn LaLiga 2 SD
+http://s21tv.co:80/F070394/876726/420047
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Dazn LaLiga 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ Dazn LaLiga 2 HD
+http://s21tv.co:80/F070394/876726/420046
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Dazn LaLiga 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ Dazn LaLiga 2 FHD
+http://s21tv.co:80/F070394/876726/420045
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Dazn LaLiga 2 HD OP1" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ Dazn LaLiga 2 HD OP1
+http://s21tv.co:80/F070394/876726/420048
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV SD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV SD
+http://s21tv.co:80/F070394/876726/420052
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV FHD
+http://s21tv.co:80/F070394/876726/420049
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV HD
+http://s21tv.co:80/F070394/876726/420051
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV FHD OP1" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV FHD OP1
+http://s21tv.co:80/F070394/876726/420050
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 2 SD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 2 SD
+http://s21tv.co:80/F070394/876726/420056
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 2 HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 2 HD
+http://s21tv.co:80/F070394/876726/420055
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 2 FHD OP1" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 2 FHD OP1
+http://s21tv.co:80/F070394/876726/420054
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 2 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 2 FHD
+http://s21tv.co:80/F070394/876726/420053
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 3 HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 3 HD
+http://s21tv.co:80/F070394/876726/420058
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga Smartbank TV 3 FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga Smartbank TV 3 FHD
+http://s21tv.co:80/F070394/876726/420057
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Mundotoro" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| Mundotoro
+http://s21tv.co:80/F070394/876726/420043
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Mundotoro HD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| Mundotoro HD
+http://s21tv.co:80/F070394/876726/420042
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Mundotoro FHD" tvg-logo="" group-title="EVENTOS DEPORTES",|ES| Mundotoro FHD
+http://s21tv.co:80/F070394/876726/420044
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga FHD
+http://s21tv.co:80/F070394/876726/280286
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ LALIGA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ LALIGA HD
+http://s21tv.co:80/F070394/876726/280285
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ LaLiga 1 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ LaLiga 1 FHD
+http://s21tv.co:80/F070394/876726/280289
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ LaLiga 1 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ LaLiga 1 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280287
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ LALIGA 1 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ LALIGA 1 HD
+http://s21tv.co:80/F070394/876726/280288
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA  2 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA  2 HD
+http://s21tv.co:80/F070394/876726/280291
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 3 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 3 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280293
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 3 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 3 HD
+http://s21tv.co:80/F070394/876726/280294
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 4(SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 4(SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280296
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 4 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 4 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280297
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 5 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 5 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280299
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 5 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 5 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280298
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 6 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 6 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280300
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 6 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 6 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280301
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 7 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 7 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280302
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 7 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 7 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280303
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 8 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 8 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280304
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 8 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 8 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280305
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 9 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 9 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280306
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 9 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 9 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280307
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LaLiga 10 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LaLiga 10 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280308
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LALIGA 10 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LALIGA 10 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280309
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+LCAMPEONES " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+LCAMPEONES 
+http://s21tv.co:80/F070394/876726/280310
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ LCAMPEONS HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ LCAMPEONS HD
+http://s21tv.co:80/F070394/876726/280311
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+LCAMPEONES FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+LCAMPEONES FHD
+http://s21tv.co:80/F070394/876726/280312
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON3 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON3 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280318
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 3 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 3 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280319
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON4 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON4 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280320
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 4 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 4 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280321
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON1 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON1 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280314
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 1 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 1 HD 
+http://s21tv.co:80/F070394/876726/280313
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON1 FHD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON1 FHD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280315
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON2 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON2 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280316
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 2 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 2 HD 
+http://s21tv.co:80/F070394/876726/280317
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+LCAMPEON 5 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+LCAMPEON 5 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280322
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 5 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 5 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280323
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON7 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON7 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280326
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 7 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 7 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280327
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON6 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON6 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280324
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 6 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 6 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280325
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ LCAMPEON 8 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ LCAMPEON 8 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280329
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON8 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON8 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280328
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON9 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON9 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280330
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON10 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON10 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280331
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON11 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON11 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280332
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+LCAMPEON12 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+LCAMPEON12 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280333
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Sevilla FC TV FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| Sevilla FC TV FHD
+http://s21tv.co:80/F070394/876726/280265
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LIGA TV BAR HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  LIGA TV BAR HD
+http://s21tv.co:80/F070394/876726/280260
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELEMADRID FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  TELEMADRID FHD
+http://s21tv.co:80/F070394/876726/280257
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 1" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| EUROSPORT 1
+http://s21tv.co:80/F070394/876726/280428
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| EUROSPORT 1 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| ES| EUROSPORT 1 HD 
+http://s21tv.co:80/F070394/876726/280424
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT1 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| EUROSPORT1 FHD
+http://s21tv.co:80/F070394/876726/280520
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| EUROSPORT 2" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| ES| EUROSPORT 2
+http://s21tv.co:80/F070394/876726/280429
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| EUROSPORT 2 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| ES| EUROSPORT 2 HD
+http://s21tv.co:80/F070394/876726/280425
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| EUROSPORT 2 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| ES| EUROSPORT 2 FHD
+http://s21tv.co:80/F070394/876726/280583
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ #VAMOS" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ #VAMOS
+http://s21tv.co:80/F070394/876726/280433
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  # VAMOS HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  # VAMOS HD 
+http://s21tv.co:80/F070394/876726/280482
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ #VAMOS FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ #VAMOS FHD
+http://s21tv.co:80/F070394/876726/280435
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  GOL" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  GOL
+http://s21tv.co:80/F070394/876726/280518
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  GOL FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  GOL FHD
+http://s21tv.co:80/F070394/876726/280582
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ TOROS" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ TOROS
+http://s21tv.co:80/F070394/876726/280549
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TOROS HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| TOROS HD
+http://s21tv.co:80/F070394/876726/280421
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ TOROS FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ TOROS FHD 
+http://s21tv.co:80/F070394/876726/280550
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELEDEPORTE" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  TELEDEPORTE
+http://s21tv.co:80/F070394/876726/280546
+#EXTINF:-1 tvg-id="" tvg-name="|ES| R. MADRID TV" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| R. MADRID TV
+http://s21tv.co:80/F070394/876726/280540
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  BARCA TV " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  BARCA TV 
+http://s21tv.co:80/F070394/876726/280511
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ #VAMOS BAR" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ #VAMOS BAR
+http://s21tv.co:80/F070394/876726/280434
+#EXTINF:-1 tvg-id="" tvg-name="|ES| REAL MADRID TV HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| REAL MADRID TV HD 
+http://s21tv.co:80/F070394/876726/280427
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  BARCA TV HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  BARCA TV HD 
+http://s21tv.co:80/F070394/876726/280426
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TELEDEPORTE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  TELEDEPORTE HD 
+http://s21tv.co:80/F070394/876726/280423
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  GOL TV HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  GOL TV HD 
+http://s21tv.co:80/F070394/876726/280422
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ GOLF " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ GOLF 
+http://s21tv.co:80/F070394/876726/280410
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ GOLF HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ GOLF HD 
+http://s21tv.co:80/F070394/876726/280356
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ GOLF FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  M+ GOLF FHD 
+http://s21tv.co:80/F070394/876726/280411
+#EXTINF:-1 tvg-id="" tvg-name="|ES| #VAMOS BAR2 " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| #VAMOS BAR2 
+http://s21tv.co:80/F070394/876726/280368
+#EXTINF:-1 tvg-id="" tvg-name="|ES| #VAMOS BAR1 " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| #VAMOS BAR1 
+http://s21tv.co:80/F070394/876726/280367
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MULTIDEPORTE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| MULTIDEPORTE HD 
+http://s21tv.co:80/F070394/876726/280355
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 
+http://s21tv.co:80/F070394/876726/280339
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES HD 
+http://s21tv.co:80/F070394/876726/280340
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES FHD 
+http://s21tv.co:80/F070394/876726/280341
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 1 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 1 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280343
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES1 FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES1 FHD 
+http://s21tv.co:80/F070394/876726/280344
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES2 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES2 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280345
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 2 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 2 HD 
+http://s21tv.co:80/F070394/876726/280346
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES3 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES3 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280347
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 3 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 3 HD 
+http://s21tv.co:80/F070394/876726/280348
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES4 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES4 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280349
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES5 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES5 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280350
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 6 HD (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 6 HD (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280352
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES6 " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES6 
+http://s21tv.co:80/F070394/876726/280351
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ DEPORTES 7 FHD (LIVE EVEENT)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+ DEPORTES 7 FHD (LIVE EVEENT)
+http://s21tv.co:80/F070394/876726/280354
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+DEPORTES7 (SOLO EVENTO)" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| M+DEPORTES7 (SOLO EVENTO)
+http://s21tv.co:80/F070394/876726/280353
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MULTIDEPORTE " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES| MULTIDEPORTE 
+http://s21tv.co:80/F070394/876726/280338
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  Telemadrid HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="EVENTOS DEPORTES",|ES|  Telemadrid HD
+http://s21tv.co:80/F070394/876726/280563
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| TNT FHD 
+http://s21tv.co:80/F070394/876726/280548
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| TNT 
+http://s21tv.co:80/F070394/876726/280547
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|ES| TCM FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| TCM FHD 
+http://s21tv.co:80/F070394/876726/280545
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|ES| TCM " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| TCM 
+http://s21tv.co:80/F070394/876726/280544
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| SYFY FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| SYFY FHD
+http://s21tv.co:80/F070394/876726/280543
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| SYFY " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| SYFY 
+http://s21tv.co:80/F070394/876726/280542
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  FOX FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  FOX FHD 
+http://s21tv.co:80/F070394/876726/280523
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  FOX " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  FOX 
+http://s21tv.co:80/F070394/876726/280522
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL ODISEA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CANAL ODISEA HD 
+http://s21tv.co:80/F070394/876726/280500
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DECASA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CANAL DECASA HD 
+http://s21tv.co:80/F070394/876726/280499
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL COCINA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CANAL COCINA HD 
+http://s21tv.co:80/F070394/876726/280498
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DKISS HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| DKISS HD 
+http://s21tv.co:80/F070394/876726/280494
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TNT HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| TNT HD 
+http://s21tv.co:80/F070394/876726/280480
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  TEN HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  TEN HD 
+http://s21tv.co:80/F070394/876726/280479
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SUNDANCE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| SUNDANCE HD 
+http://s21tv.co:80/F070394/876726/280477
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  BOM CINE HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  BOM CINE HD
+http://s21tv.co:80/F070394/876726/280476
+#EXTINF:-1 tvg-id="" tvg-name="|ES| PARAMOUNT HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| PARAMOUNT HD 
+http://s21tv.co:80/F070394/876726/280474
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  COMEDY CENTRAL HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  COMEDY CENTRAL HD
+http://s21tv.co:80/F070394/876726/280470
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|ES| ES| TCM HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| TCM HD 
+http://s21tv.co:80/F070394/876726/280461
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| SYFY HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| SYFY HD 
+http://s21tv.co:80/F070394/876726/280460
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  HOLLYWOOD HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  HOLLYWOOD HD
+http://s21tv.co:80/F070394/876726/280459
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  FOX HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  FOX HD 
+http://s21tv.co:80/F070394/876726/280458
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| CALLE 13 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| CALLE 13 HD 
+http://s21tv.co:80/F070394/876726/280457
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| AXN WHITE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| AXN WHITE HD 
+http://s21tv.co:80/F070394/876726/280456
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| AXN HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| AXN HD 
+http://s21tv.co:80/F070394/876726/280455
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| AMC HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| AMC HD 
+http://s21tv.co:80/F070394/876726/280454
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  #0 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  #0 HD 
+http://s21tv.co:80/F070394/876726/280453
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ #0 FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ #0 FHD 
+http://s21tv.co:80/F070394/876726/280432
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ #0 " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ #0 
+http://s21tv.co:80/F070394/876726/280431
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ESTRENOS FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ESTRENOS FHD
+http://s21tv.co:80/F070394/876726/280430
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ SERIES " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ SERIES 
+http://s21tv.co:80/F070394/876726/280420
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ Fest FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ Fest FHD 
+http://s21tv.co:80/F070394/876726/280419
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ Fest " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ Fest 
+http://s21tv.co:80/F070394/876726/280418
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ESTRENOS 2" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ESTRENOS 2
+http://s21tv.co:80/F070394/876726/280417
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ESTRENOS" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ESTRENOS
+http://s21tv.co:80/F070394/876726/280416
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ SERIES FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ SERIES FHD 
+http://s21tv.co:80/F070394/876726/280415
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ La Resistencia " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| M+ La Resistencia 
+http://s21tv.co:80/F070394/876726/280412
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ESTRENOS 2 FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ESTRENOS 2 FHD
+http://s21tv.co:80/F070394/876726/280409
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| M+ DRAMA" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| M+ DRAMA
+http://s21tv.co:80/F070394/876726/280408
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Cine Esp " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| M+ Cine Esp 
+http://s21tv.co:80/F070394/876726/280407
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ COMEDIA FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ COMEDIA FHD 
+http://s21tv.co:80/F070394/876726/280406
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ COMEDIA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ COMEDIA 
+http://s21tv.co:80/F070394/876726/280405
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ CL.SICOS FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| M+ CL.SICOS FHD 
+http://s21tv.co:80/F070394/876726/280404
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ CL.SICOS " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| M+ CL.SICOS 
+http://s21tv.co:80/F070394/876726/280403
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ACCION FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ACCION FHD
+http://s21tv.co:80/F070394/876726/280402
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ACCION" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ACCION
+http://s21tv.co:80/F070394/876726/280401
+#EXTINF:-1 tvg-id="" tvg-name="|ES| COSMO " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| COSMO 
+http://s21tv.co:80/F070394/876726/280389
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  COMEDY CENTRAL FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  COMEDY CENTRAL FHD
+http://s21tv.co:80/F070394/876726/280388
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DECASA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CANAL DECASA 
+http://s21tv.co:80/F070394/876726/280379
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL COCINA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CANAL COCINA 
+http://s21tv.co:80/F070394/876726/280378
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CALLE 13 FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CALLE 13 FHD 
+http://s21tv.co:80/F070394/876726/280377
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CALLE 13 " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| CALLE 13 
+http://s21tv.co:80/F070394/876726/280376
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| AXN WHITE FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| ES| AXN WHITE FHD 
+http://s21tv.co:80/F070394/876726/280374
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN WHITE " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| AXN WHITE 
+http://s21tv.co:80/F070394/876726/280373
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AXN " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| AXN 
+http://s21tv.co:80/F070394/876726/280372
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| AMC 
+http://s21tv.co:80/F070394/876726/280370
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES| AMC FHD 
+http://s21tv.co:80/F070394/876726/280366
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ FEST HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ FEST HD 
+http://s21tv.co:80/F070394/876726/280365
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ SERIES HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ SERIES HD 
+http://s21tv.co:80/F070394/876726/280364
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ SERIES 2 HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ SERIES 2 HD 
+http://s21tv.co:80/F070394/876726/280363
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ DRAMA HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ DRAMA HD
+http://s21tv.co:80/F070394/876726/280362
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ COMEDIA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ COMEDIA HD 
+http://s21tv.co:80/F070394/876726/280361
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ESTRENOS 2 HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ESTRENOS 2 HD
+http://s21tv.co:80/F070394/876726/280359
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ ACCION HD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ ACCION HD
+http://s21tv.co:80/F070394/876726/280358
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  M+ CINE ESPANOL FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="CINE Y SERIES",|ES|  M+ CINE ESPANOL FHD
+http://s21tv.co:80/F070394/876726/280256
+#EXTINF:-1 tvg-id="" tvg-name="|ES| PARAMOUNT " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| PARAMOUNT 
+http://s21tv.co:80/F070394/876726/280539
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NAT GEOGRAPH" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| NAT GEOGRAPH
+http://s21tv.co:80/F070394/876726/280532
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| NAT GEO WILD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| ES| NAT GEO WILD
+http://s21tv.co:80/F070394/876726/280531
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NAT GEO FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| NAT GEO FHD 
+http://s21tv.co:80/F070394/876726/280530
+#EXTINF:-1 tvg-id="" tvg-name="|ES| IBERALIA TV " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| IBERALIA TV 
+http://s21tv.co:80/F070394/876726/280527
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  HOLLYWOOD FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES|  HOLLYWOOD FHD
+http://s21tv.co:80/F070394/876726/280526
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  HOLLYWOOD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES|  HOLLYWOOD
+http://s21tv.co:80/F070394/876726/280525
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HISTORIA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| HISTORIA 
+http://s21tv.co:80/F070394/876726/280524
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DMAX HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| DMAX HD 
+http://s21tv.co:80/F070394/876726/280493
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| HISTORIA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| ES| HISTORIA HD 
+http://s21tv.co:80/F070394/876726/280489
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CRIMEN INVESTIGACION HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| CRIMEN INVESTIGACION HD 
+http://s21tv.co:80/F070394/876726/280486
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ES| NAT GEO WILD HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| ES| NAT GEO WILD HD 
+http://s21tv.co:80/F070394/876726/280484
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NAT GEOGRAPHIC HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| NAT GEOGRAPHIC HD 
+http://s21tv.co:80/F070394/876726/280483
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DISCOVERY " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| DISCOVERY 
+http://s21tv.co:80/F070394/876726/280392
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CRIMEN+INVES " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| CRIMEN+INVES 
+http://s21tv.co:80/F070394/876726/280391
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CAZAyPESCA FHD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| CAZAyPESCA FHD 
+http://s21tv.co:80/F070394/876726/280384
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CAZA Y PESCA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="DOCUMENTALES",|ES| CAZA Y PESCA 
+http://s21tv.co:80/F070394/876726/280383
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MEZZO LIVE FHD" tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| MEZZO LIVE FHD
+http://s21tv.co:80/F070394/876726/280529
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MEZZO " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| MEZZO 
+http://s21tv.co:80/F070394/876726/280528
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV ESP " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| MTV ESP 
+http://s21tv.co:80/F070394/876726/280519
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV ESPANA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| MTV ESPANA HD 
+http://s21tv.co:80/F070394/876726/280510
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MEZZO LIVE HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| MEZZO LIVE HD 
+http://s21tv.co:80/F070394/876726/280509
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CLASSICA HD " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| CLASSICA HD 
+http://s21tv.co:80/F070394/876726/280508
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CLASSICA " tvg-logo="http://clipart-library.com/data_images/529271.png" group-title="Musica",|ES| CLASSICA 
+http://s21tv.co:80/F070394/876726/280386
