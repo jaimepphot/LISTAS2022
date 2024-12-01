@@ -31,6 +31,10 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/eec1666c-adcd-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/5d4be52a-f568-4362-9b0d-d123a660eafc.ts
 #EXTINF:-1, DAZN 1
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/09d77bc3-1484-4dd8-9d89-c515fd4675bc.ts
+#EXTINF:-1, Decasa
+http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/ff8b2ca0-5696-4081-a856-53bb1c90ac70.ts
+#EXTINF:-1, DECASA 
+http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2edcfe2b-8c7e-436a-aec8-6e2bfe1fbaaf.ts
 #EXTINF:-1, DAZN 1 UHD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/8a4c3f69-aa36-4b81-bd45-b6f69f673693.ts
 #EXTINF:-1, DAZN 1 UHD 50p
@@ -43,10 +47,6 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2146e8e0-24b8-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/60088702-b3a1-46fb-b70c-3d9f11abc5f5.ts
 #EXTINF:-1, DAZN F1 UHD 50p
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2b321118-4792-46c2-a740-c4b007b7f86c.ts
-#EXTINF:-1, Decasa
-http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/ff8b2ca0-5696-4081-a856-53bb1c90ac70.ts
-#EXTINF:-1, DECASA 
-http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2edcfe2b-8c7e-436a-aec8-6e2bfe1fbaaf.ts
 #EXTINF:-1, Discovery Channel HD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/4a157494-bcfe-4b77-a378-be67fc05b26c.ts
 #EXTINF:-1, Discovery Channel
@@ -67,7 +67,7 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/50ded525-a318-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/1b6bdf64-2c55-4121-bc53-f558135743ad.ts
 #EXTINF:-1, Historia 
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/fa230cd2-4eec-4f37-abea-78f9b856b1d3.ts
-#EXTINF:-1, DISCOVERY 2ND SOURCE
+#EXTINF:-1, DISCOVERY 2ND
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/95eba07f-0527-48fe-9b54-401aaaf3a4a2.ts
 #EXTINF:-1, National Geographic
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/bceb5c31-732b-46aa-95f9-1dc9876e934e.ts
