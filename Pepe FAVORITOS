@@ -31,10 +31,6 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/eec1666c-adcd-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/5d4be52a-f568-4362-9b0d-d123a660eafc.ts
 #EXTINF:-1, DAZN 1
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/09d77bc3-1484-4dd8-9d89-c515fd4675bc.ts
-#EXTINF:-1, Decasa
-http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/ff8b2ca0-5696-4081-a856-53bb1c90ac70.ts
-#EXTINF:-1, DECASA 
-http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2edcfe2b-8c7e-436a-aec8-6e2bfe1fbaaf.ts
 #EXTINF:-1, DAZN 1 UHD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/8a4c3f69-aa36-4b81-bd45-b6f69f673693.ts
 #EXTINF:-1, DAZN 1 UHD 50p
@@ -43,6 +39,10 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/d3dfd3e5-778e-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/9ab2802c-1982-4668-83b6-128c7e15956c.ts
 #EXTINF:-1, DAZN F1 HD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2146e8e0-24b8-4016-9a27-8a8b8b8ddbab.ts
+#EXTINF:-1, Decasa
+http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/ff8b2ca0-5696-4081-a856-53bb1c90ac70.ts
+#EXTINF:-1, DECASA 
+http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/2edcfe2b-8c7e-436a-aec8-6e2bfe1fbaaf.ts
 #EXTINF:-1, DAZN F1 UHD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/60088702-b3a1-46fb-b70c-3d9f11abc5f5.ts
 #EXTINF:-1, DAZN F1 UHD 50p
@@ -97,5 +97,5 @@ http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/ccb5bcc6-7039-4
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/dd7e3126-ba7a-417d-84dd-1e5f894d31b7.ts
 #EXTINF:-1, Drama HD
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/89794a1e-5b52-47ff-90b8-7ce622658a5e.ts
-#EXTINF:-1, M+ Drama
+#EXTINF:-1, Drama
 http://vip.oct29freego.top:8080/live/2411d3gk32/8bc799446ae9e373/987067c2-4fc2-493d-baf2-ddb28843aa00.ts
