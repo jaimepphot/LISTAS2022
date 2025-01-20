@@ -1,261 +1,101 @@
 #EXTM3U
-#EXTINF:0,LA 1 FHD TDT
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4014e9aa-b5a6-4d23-ba63-c8b74a2fa97d.ts
+#EXTINF:0,LA 1 FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e89c18c7-c151-4fdd-9fdb-332e96d20ae0.ts
+#EXTINF:0,LA 2 FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/78cf9bca-ad9f-4ea3-8956-1b2b4bb24310.ts
+#EXTINF:0,ANTENA 3 FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/68dbc491-d84f-467d-9dc1-04ab1e617c35.ts
+#EXTINF:0,CUATRO FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d45d3b8e-9e34-467b-91d8-4a2b5496b9a9.ts
+#EXTINF:0,TELECINCO FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a426fe7f-ffcb-43e1-affa-fbd7a8e0d029.ts
+#EXTINF:0,LA SEXTA FHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b6121677-efc9-4879-a4ba-7f221c89b895.ts
+#EXTINF:0,DMAX HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1435262e-5d88-4d4d-9081-4046536b574f.ts
+#EXTINF:0,M+ HISTORIA FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/82c8aa8c-ad32-4352-ad82-2e4ded57c704.ts
+#EXTINF:0,M+ ODISEA FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5a0925c0-a071-427d-89fd-4b3b1f91a769.ts
+#EXTINF:0,M+ CANAL DE CASA HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cebe4df0-9e67-4280-8dd7-b3c7f3e1e82e.ts
+#EXTINF:0,DMAXFHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ed1d660d-24e0-440c-b80b-240c2b0d5188.ts
+#EXTINF:0,DAZN F1 FHD 50p
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a9cca1b2-2067-4441-b85f-93754fe4eb67.ts
+#EXTINF:0,M+ DAZN F1 FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/80fae7d0-ad92-4a32-8ad2-4284876e1254.ts
+#EXTINF:0,DAZN F1 FHD (AMZ)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d794776c-d9f9-4854-b841-22bcc21bbe3d.ts
+#EXTINF:0,M+ DAZN 1 FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9d4d27dc-ce52-4441-a610-597910300211.ts
+#EXTINF:0,DAZN 1 FHD (AMZ)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2d8eae69-63ac-4230-a474-fc100c678637.ts
+#EXTINF:0,DAZN 1 FHD 50FPS
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8c093b47-7094-404f-8407-0466fd897c0b.ts
+#EXTINF:0,M+ DOCUMENTALES FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8636b60e-255a-4637-9fc5-4531956c115d.ts
+#EXTINF:0,M+ DISCOVERY FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/21524e13-fb60-4fe4-82b3-dd7352785a92.ts
+#EXTINF:0,M+ NAT GEO GRAPHIC FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/efe1610a-b188-4cf0-b7b0-91144f6a5c15.ts
+#EXTINF:0,M+ NAT GEO WILD FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bd8461a3-5b8c-4edc-957e-f0f0d1a370a7.ts
+#EXTINF:0,M+ BUEN VIAJE FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e9a0c67b-2264-4255-b44a-c582bd46ce86.ts
+#EXTINF:0,M+ CANAL COCINA FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/db894609-b19d-4457-8e7f-9675e553617e.ts
+#EXTINF:0,M+ ODISEA HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d285a1d2-5a6f-4f70-aba1-09e4cd85d751.ts
+#EXTINF:0,M+ ODISEA
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6cb41904-8006-4ea3-ab9c-2e504e388cb6.ts
+#EXTINF:0,M+ CANAL COCINA HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c47cd205-3a6a-45ef-b276-de78f091c3d8.ts
+#EXTINF:0,M+ MOVISTAR PLUS FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a024509b-287b-4c0b-a96c-230f71d9c621.ts
+#EXTINF:0,M+ MOVISTAR PLUS 2 FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f3ea6e99-5a55-463e-8515-15de9c82e63f.ts
+#EXTINF:0,M+ La Resistencia FHD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/dae6b1fb-702c-42f4-9052-dd467999ddd4.ts
+#EXTINF:0,LA 1 UHD (DVB)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/52078920-caff-47a7-85ae-dbd441e01ed7.ts
+#EXTINF:0,LA 1 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fa227f1e-aaf7-45ff-9d4b-7bfabab37ab5.ts
 #EXTINF:0,LA 2 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3573f486-dff2-4301-a382-8d9214ba454a.ts
-#EXTINF:0,Antena 3 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/f51782e7-767d-484c-b248-f0a36c40aa10.ts
-#EXTINF:0,Cuatro HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/f0ff1a16-c421-408b-a630-afe196b1325e.ts
-#EXTINF:0,Telecinco HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/63799929-27a2-4f03-a7d4-ad8062724082.ts
-#EXTINF:0,La Sexta HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/017af8db-9f3c-4466-82cb-957d25f6a53f.ts
-#EXTINF:0,Energy HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3586cf19-3759-4a64-bdf0-ae4cd74bacc0.ts
-#EXTINF:0,ODISEA UHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/25ae27c9-cc1c-4769-a0fb-15d3613a685f.ts
-#EXTINF:0,Decasa FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/a28c9cca-3df9-4f86-bc73-b47301d3aae6.ts
-#EXTINF:0,Historia HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/470c19ec-1d86-452c-a1a3-6176d102c9ac.ts
-#EXTINF:0,DECASA UHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/a73e47a1-7fdf-4aca-85bf-eab26b19dbef.ts
-#EXTINF:0,A3series HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8fa9b5e1-ce5f-423e-830e-bc8a1b6462a6.ts
-#EXTINF:0,Sundance TV FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/93f45ea7-93b6-46c9-9ec8-7e0d9ca63cee.ts
-#EXTINF:0,Sundance TV HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/d2e6dd91-e318-44f5-ae1d-62407723ec74.ts
-#EXTINF:0,M+ Accion FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/a91479a5-1d31-4c11-99b0-fd19638b5ba8.ts
-#EXTINF:0,M+ Accion HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/cb9aebfe-4612-401c-bec0-89fe803640d6.ts
-#EXTINF:0,M+ Comedia FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/fac7a97a-f9e8-40c8-9cf1-c5cdc2fff750.ts
-#EXTINF:0,M+ Comedia
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/2b843afd-43a7-44f0-abe1-2f845cd7fa4e.ts
-#EXTINF:0,M+ Cine FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0c03a72d-6ef7-4ca1-b72b-7ea6a9421c0e.ts
-#EXTINF:0,M+ Cine HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/142060bf-d42e-49e9-83f7-e29589f37836.ts
-#EXTINF:0,M+ Cine
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/90d24d98-a99a-46f6-987b-f6a82dca9596.ts
-#EXTINF:0,M+ Indie HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/b61a1a93-f9f2-458d-b82b-0adbd8d9b75a.ts
-#EXTINF:0,M+ Indie
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/bada1d51-c39e-4fe2-8331-ae8bc43cebff.ts
-#EXTINF:0,M+ Drama FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/ec93aecd-ba59-4dde-9ee4-d7c45a91122f.ts
-#EXTINF:0,M+ Drama HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/d34b317d-3d21-499b-ad15-755e8c8bce89.ts
-#EXTINF:0,M+ Drama
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/55e3ea34-4f65-4885-9722-3cf79e8cd58c.ts
-#EXTINF:0,M+ Cláscios FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/97942ee8-eeb7-4234-be21-56ec41ff362d.ts
-#EXTINF:0,M+ Cláscios HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/6db89c34-f377-4998-96b3-2d9d65761bc9.ts
-#EXTINF:0,M+ Cine Espanol FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/164ca27e-20b4-4578-afd2-2f07d2aaf592.ts
-#EXTINF:0,M+ Cine Espanol HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/49736463-add0-46a2-9783-0c1e2292b9a4.ts
-#EXTINF:0,M+ Cine Espanol
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/6886009b-1172-4102-9dd0-1ece80491244.ts
-#EXTINF:0,M+ Oscar FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/eb503979-de87-4d51-a355-061306b89d66.ts
-#EXTINF:0,M+ Oscar HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/686bdbcd-ed65-4b66-992f-f3ba768b1fa5.ts
-#EXTINF:0,M+ Oscar
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/73d43281-67f4-4487-9607-3eb38b8bbced.ts
-#EXTINF:0,TCM FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/557af5e7-a57e-4390-811a-55d4fe2128fe.ts
-#EXTINF:0,TCM HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/63f54cc1-96c9-4e7b-be1f-55dcb9eeaa8a.ts
-#EXTINF:0,TCM
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8b9db317-ab08-4dfd-a10d-c2b89d849094.ts
-#EXTINF:0,Hollywood FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/20651529-a750-4021-b3fa-67081611c061.ts
-#EXTINF:0,Hollywood HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/6d90c923-78fc-412c-96a8-44d46e9e6231.ts
-#EXTINF:0,Hollywood
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/29c12f7b-bd71-443c-9acb-20f96b6f1102.ts
-#EXTINF:0,Sundance TV
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/d2fb05d7-37ad-4ffd-a474-237c0d7ec4da.ts
-#EXTINF:0,Dark FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/12ed8477-3157-4a55-9af0-304e6ff69696.ts
-#EXTINF:0,Dark HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0560dfe3-3dce-4d46-9866-5e40785927f2.ts
-#EXTINF:0,Dark
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/c241ad33-9435-42d4-be74-6dc107b3048e.ts
-#EXTINF:0,XTRM FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/e5dca901-bad2-4bc8-9839-07098008c211.ts
-#EXTINF:0,XTRM HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/2ef68950-9007-40b2-b81a-48b89141d11e.ts
-#EXTINF:0,XTRM
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/2abbf6f8-28cf-4fea-97d5-ddb0cb34f101.ts
-#EXTINF:0,M+ SkyShowtime 1 FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/213dee29-4d05-4af6-9ae5-af56f48a9adc.ts
-#EXTINF:0,M+ SkyShowtime 1 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/56fbecea-63c7-4014-8639-1626b55c01d5.ts
-#EXTINF:0,M+ SkyShowtime 1
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/788d05d8-3f08-4fc1-ba53-be88fafac02a.ts
-#EXTINF:0,M+ Series FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/96eef95a-5c65-4f8c-8c45-558429e7ef8f.ts
-#EXTINF:0,M+ Series HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0d167d2a-ca40-4500-816e-3947a9085325.ts
-#EXTINF:0,M+ Series
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4d9fec5a-d364-405d-be65-973aa9bc8472.ts
-#EXTINF:0,M+ Originales FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/e2333bf5-e70e-4619-a528-b2e646333fe9.ts
-#EXTINF:0,M+ Originales HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/bfe33636-97dc-47fa-a692-61e9278f17d8.ts
-#EXTINF:0,M+ Originales
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0cb4b34f-da63-4701-9d1a-4eeb345c90bd.ts
-#EXTINF:0,M+ Plus FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/5a9fce85-c755-4889-abbc-5758f361c0ac.ts
-#EXTINF:0,M+ Plus HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/13598e6b-1c10-4c46-868f-bb7f94882402.ts
-#EXTINF:0,M+ Plus
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/9ad6dd8a-1d9e-43fd-a274-df999d11a144.ts
-#EXTINF:0,M+ Plus 2 FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/576ecf3b-e943-4553-bc36-449a36f11969.ts
-#EXTINF:0,M+ Plus 2 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/60987df0-1426-48ff-9b06-b287171f934a.ts
-#EXTINF:0,M+ Plus 2
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8226ec5d-51e3-4830-8711-a3df31b3c2aa.ts
-#EXTINF:0,Calle 13 FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/c9574849-3217-4ba4-abe4-0dab7c125893.ts
-#EXTINF:0,Calle 13 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4fbcfb89-10d6-41cd-a354-30acbfdc895e.ts
-#EXTINF:0,Calle 13
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/7f6a573a-4eeb-4a25-9d93-92c6933f8186.ts
-#EXTINF:0,Cosmo TV FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/47867d16-e297-4c86-b520-5bc3d9de4eb5.ts
-#EXTINF:0,Cosmo TV HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4918e327-4d0d-4771-bfc3-1cbe6a033d94.ts
-#EXTINF:0,Cosmo TV
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/cc3d416e-3942-4154-a796-e2d4c57f5a81.ts
-#EXTINF:0,AMC FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8a4a8c07-dddc-4f59-a1d4-59fed12dbd2f.ts
-#EXTINF:0,AMC HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/469ccf07-f5f2-4a78-a23c-1d2f2f9bf88e.ts
-#EXTINF:0,AMC
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3884efd2-d204-4907-9281-55be7739c64d.ts
-#EXTINF:0,AMC Break FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/384b3eac-12c7-4801-b27b-62fb15f4e8de.ts
-#EXTINF:0,AMC Break HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/bfd01958-802f-4ee4-b6fe-9616e307a3aa.ts
-#EXTINF:0,AMC Break
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/76fc5d87-6f97-4aa4-a3cc-39e765ad8813.ts
-#EXTINF:0,AXN FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/854c500d-f274-4b9c-8062-1e3883bda794.ts
-#EXTINF:0,AXN HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/eea09d19-4f74-4abc-bc8b-84bbb583808e.ts
-#EXTINF:0,AXN
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/104cf246-438b-4c10-a98d-775fcec4546f.ts
-#EXTINF:0,AXN Movies FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/451ebc28-49c5-49b8-9691-914315dfd784.ts
-#EXTINF:0,AXN Movies HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/e4ce2e91-6b1f-4542-b84d-704f6c755eac.ts
-#EXTINF:0,AXN Movies
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/db402855-6e0c-496f-a8e1-79255b0e7218.ts
-#EXTINF:0,SyFy FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/899b04e8-1408-4525-81ea-215261913ae0.ts
-#EXTINF:0,SYFY HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/42c9371e-85ea-4ace-9cae-3b1b02e381c5.ts
-#EXTINF:0,SyFy
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8096af49-573b-4e23-846d-12bd0e7b9db9.ts
-#EXTINF:0,Comedy Central FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/85cb35f9-0324-4d64-b0c3-c5f02398c0f1.ts
-#EXTINF:0,Comedy Central HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/074a96ef-8cc9-4134-92c5-30a0bde6c625.ts
-#EXTINF:0,Comedy Central
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/b1bcd2b6-7a9a-47fb-9856-ef592b8c74ae.ts
-#EXTINF:0,M+ Documentales
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4eaf77d3-0c86-4cfc-b41d-30e0552e4192.ts
-#EXTINF:0,Dmax HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4e3b736e-3308-4da2-8b2c-ecadf9d4da49.ts
-#EXTINF:0,SELEKT FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/30fa6645-f191-4fbf-b245-0a777de438fd.ts
-#EXTINF:0,SELEKT HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/ca97873a-23ec-4e8d-8c93-18fe5922ad5e.ts
-#EXTINF:0,M+ Documentales FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/6f8c8606-8026-410c-ad00-17277b062ced.ts
-#EXTINF:0,M+ Documentales HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/e0e3470a-7f00-4524-a6f8-cf7d4981f10f.ts
-#EXTINF:0,National Geoghraphic FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/4436844f-eca9-4489-96fa-11d6ff3c143f.ts
-#EXTINF:0,National Geoghraphic HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/cce43041-3834-4a9f-8906-b53804e80815.ts
-#EXTINF:0,National Geoghraphic
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/be42cc7d-eb00-4ba2-b9b2-fde3b8a3d201.ts
-#EXTINF:0,Nat Geo Wild FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/ca033453-238d-4015-b930-505110334d53.ts
-#EXTINF:0,Nat Geo Wild HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/030c450a-9deb-4193-bd78-7dd621733c6f.ts
-#EXTINF:0,Nat Geo Wild
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0f8c61e6-3a1d-4213-b0a8-e913dd132fbd.ts
-#EXTINF:0,Discovery Channel FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/fc413aed-7a5c-400e-b3dc-9f78278d9e9c.ts
-#EXTINF:0,Discovery Channel HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/ce9a8324-43a8-4d8f-86bc-d3c7ea6150cb.ts
-#EXTINF:0,Discovery Channel
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/82068729-8d13-40aa-9709-79effe1bbe82.ts
-#EXTINF:0,Odisea FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/68a85a08-d91e-4adb-8c20-56c97bd27f61.ts
-#EXTINF:0,Odisea HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/f564891f-9057-41ee-b39c-ba8dff85363c.ts
-#EXTINF:0,Odisea
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/a9c6816a-d286-4615-affd-9939081245e4.ts
-#EXTINF:0,Historia FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/cd3b2ae8-f0e2-426e-9910-829262d9ba1c.ts
-#EXTINF:0,Historia
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/720d7fe1-be3f-4d3c-ae0d-402b8de33ee3.ts
-#EXTINF:0,BuenViaje FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/99b5db63-e796-4232-812d-a2215d070f77.ts
-#EXTINF:0,BuenViaje TV HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/b6f94d0f-6ca7-4ad7-a83f-4c2ca4cd0ccf.ts
-#EXTINF:0,BuenViaje TV
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3dc6cdc6-1402-4ea2-b011-e66348c34d3c.ts
-#EXTINF:0,Cazavisión FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/04a4882a-2a94-4e8f-8728-d716e1b03a21.ts
-#EXTINF:0,Cazavisión HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3613722a-ea8d-487a-87f8-a3a792bf78b9.ts
-#EXTINF:0,Cazavisión
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/d02b2897-4208-43d5-94b3-9f5be2b77144.ts
-#EXTINF:0,Nature Time FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/922419fd-6281-4cf0-b45c-348dbf4caf85.ts
-#EXTINF:0,AMC Crime FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/997f7cd9-c6f3-48a3-998f-314b0f41da64.ts
-#EXTINF:0,AMC Crime HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0538eebe-15f5-4bf9-8d22-18d98eb7d59c.ts
-#EXTINF:0,AMC Crime
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/72e1f51b-e662-4b79-9ec1-7b756cf3cf8d.ts
-#EXTINF:0,Canal Cocina ULTRA HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/26fe02e1-c0e9-46bb-928f-c1a1ee6d5947.ts
-#EXTINF:0,Canal Cocina FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/dd7b0db1-8dc6-43bb-a0ec-b5087014f25f.ts
-#EXTINF:0,Canal Cocina HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/39c69067-c7f0-490e-a6e4-ee90a19e28e7.ts
-#EXTINF:0,Canal Cocina
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/ffe4c8e3-d2d7-421f-bdd0-464c6dc370be.ts
-#EXTINF:0,Decasa HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/dc20b846-1730-4ca1-8453-71560ea5ee2f.ts
-#EXTINF:0,Decasa
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/eaa14517-7d82-4983-ac7f-b8242e77cfda.ts
-#EXTINF:0,M+ Dazn 1
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/c4590045-d576-4daf-b2b2-36453eb1dac7.ts
-#EXTINF:0,M+ Dazn 1 HD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/2a035e7e-3a77-4500-9630-154a47851e0b.ts
-#EXTINF:0,M+ Dazn 1 FHD
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/78edbdae-4b4a-431e-83e0-ff4a429b92d2.ts
-#EXTINF:0,M+ Dazn 1 FHD (50 FPS)
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8a2c9bbf-f260-4fe2-9020-790625a567ee.ts
-#EXTINF:0,M+ Dazn 1 FHD (sat)
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/3f8a6c86-af04-4ac2-8bbf-ae72cc54867a.ts
-#EXTINF:0,M+ Dazn 1 (Fibra AMZ)
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/8cbea905-81ed-447f-866c-45af52d17c36.ts
-#EXTINF:0,M+ Dazn F1 FHD (50 FPS)
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/0bedf2e1-9602-4b31-8bc2-19f3855e6952.ts
-#EXTINF:0,M+ Dazn F1
-http://92.246.87.2:80/live/2411d3gk32/8bc799446ae9e373/1f298227-462f-43ad-afdd-ea09e12955a8.ts
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d1a4a428-5e96-4c89-9b33-f7f45eec1242.ts
+#EXTINF:0,ANTENA 3 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/45bc1086-e970-40ed-9b94-6e23469d5345.ts
+#EXTINF:0,ANTENA 3 HD INTER
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8e0399e6-e642-4b30-8c77-08742f016e14.ts
+#EXTINF:0,CUATRO HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2ce7fa96-5ec1-460a-8278-081161446922.ts
+#EXTINF:0,TELECINCO HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b8190db8-5df6-473e-8f91-05728b41c68f.ts
+#EXTINF:0,LA SEXTA  HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3b8130a2-5532-4fb0-8576-2b3a02a36a8c.ts
+#EXTINF:0,DAZN F1 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6940a9d1-ea1d-478f-9b39-1e14771c75f4.ts
+#EXTINF:0,DAZN F 1 HD (AMZ)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bc4606c2-9916-43d5-8a39-2c8d45cc97fd.ts
+#EXTINF:0,M+ DAZN F1 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f5c58186-70d2-42c9-a87d-3129ba19e33a.ts
+#EXTINF:0,DAZN F1 (AMZ)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4481fa51-82fa-468d-bb51-5d9db08947c1.ts
+#EXTINF:0,M+ DAZN 1 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c5395526-2b07-40c0-b51e-1fe25b456222.ts
+#EXTINF:0,DAZN 1 HD (AMZ)
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2ae7b75a-3841-476d-b549-4573cbc5464b.ts
+#EXTINF:0,DAZN 1 HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cef3d4dc-6233-4d0d-be26-511b1516d5c7.ts
+#EXTINF:0,M+ DOCUMENTALES HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a2fa01da-078e-462f-99cc-069eb46457ff.ts
+#EXTINF:0,M+ HISTORIA HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8d7b382f-3103-4e8c-839b-f33b8f19e552.ts
+#EXTINF:0,M+ DISCOVERY HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/57f0b1ed-53e9-4e5b-acf4-e315802d288b.ts
+#EXTINF:0,M+ NAT GEO GRAPHIC HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/be724346-1771-4e64-8945-4cd418e21037.ts
+#EXTINF:0,M+ NAT GEO WILD HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d10223f6-df7a-402a-a517-3a592f925606.ts
+#EXTINF:0,M+ BUEN VIAJE HD
+http://es.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5a219c2a-30ff-4577-9f73-b8633113ee7a.ts
