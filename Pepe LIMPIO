@@ -1,1 +1,772 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/1/xla1.jpg.pagespeed.ic.Hjzo4OAJvw.webp" group-title="ES| TDT AUTONOMICA",LA 1 FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e89c18c7-c151-4fdd-9fdb-332e96d20ae0.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/2/xla2.jpg.pagespeed.ic.KVErrktknp.webp" group-title="ES| TDT AUTONOMICA",LA 2 FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/78cf9bca-ad9f-4ea3-8956-1b2b4bb24310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/n/t/xantena-3.jpg.pagespeed.ic.a9UeH4QRxE.webp" group-title="ES| TDT AUTONOMICA",ANTENA 3 FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/68dbc491-d84f-467d-9dc1-04ab1e617c35.ts
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/a/xcuatro.jpg.pagespeed.ic.z8koL2I4O_.webp" group-title="ES| TDT AUTONOMICA",CUATRO FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d45d3b8e-9e34-467b-91d8-4a2b5496b9a9.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/g/r/xtelecinco.jpg.pagespeed.ic.j1ikrqSAFI.webp" group-title="ES| TDT AUTONOMICA",TELECINCO FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a426fe7f-ffcb-43e1-affa-fbd7a8e0d029.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/0/k/xlasexta.jpg.pagespeed.ic.uI8JDfSmgL.webp" group-title="ES| TDT AUTONOMICA",LA SEXTA FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b6121677-efc9-4879-a4ba-7f221c89b895.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3Series FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.m8U-icRp-j.webp" group-title="ES| TDT AUTONOMICA",A3Series FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e99e0bcc-b451-4a18-8d81-b3f2a6040a50.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/e/g/xmega.jpg.pagespeed.ic.GE3nnYU6SP.webp" group-title="ES| TDT AUTONOMICA",MEGA FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d8987444-bca5-4ee2-b238-ab6ce45b0bd8.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEOX FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/e/o/xneox.jpg.pagespeed.ic.nvaIjDqfLF.webp" group-title="ES| TDT AUTONOMICA",NEOX FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4be2403d-4482-4917-bc1b-72083d9f3245.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/o/v/xnova.jpg.pagespeed.ic.3F-6nhJJL5.webp" group-title="ES| TDT AUTONOMICA",NOVA FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1ec23eb8-1655-44b6-ad63-fcd7fb170a86.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/n/e/xenergy.jpg.pagespeed.ic.mOMpaTa4Oj.webp" group-title="ES| TDT AUTONOMICA",ENERGY FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d392ecca-6547-452b-813f-818c1ded0958.ts
+#EXTINF:-1 tvg-id="" tvg-name="FDF FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/f/d/f/xfdf.jpg.pagespeed.ic.celD0Sussp.webp" group-title="ES| TDT AUTONOMICA",FDF FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5216d13e-5f1f-478f-878d-ddaef9a50c25.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEMAD FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.OZlmll7W1g.webp" group-title="ES| TDT AUTONOMICA",BEMAD FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/81af3721-2b2d-48c6-8ed2-35849352d38a.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/i/v/xdivinity.jpg.pagespeed.ic.GNI2OTuVRG.webp" group-title="ES| TDT AUTONOMICA",DIVINITY FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0c4b5bb2-d945-4790-aaac-19e6d83db2b3.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOING FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/o/i/xboing.jpg.pagespeed.ic.QQO5sjWZLI.webp" group-title="ES| TDT AUTONOMICA",BOING FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6e0a26ab-2e3a-4bf7-87a6-7970f08b124c.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/2/4/h/x24h.jpg.pagespeed.ic.l3paIFn3DP.webp" group-title="ES| TDT AUTONOMICA",24H FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5fa97012-26ca-4982-b49b-9e4047bd1ce1.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLAN FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/l/a/xclan.jpg.pagespeed.ic.yKHXJEVIkW.webp" group-title="ES| TDT AUTONOMICA",CLAN FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/571d4001-e3e2-445f-b79d-4008d647bd5b.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDP FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xteledeporte.jpg.pagespeed.ic.Obq4DzDgVJ.webp" group-title="ES| TDT AUTONOMICA",TDP FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1a97dad2-7fac-48d4-a472-1ba6ec5aa0e7.ts
+#EXTINF:-1 tvg-id="" tvg-name="DKISS FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/k/i/xdkiss.jpg.pagespeed.ic.HzphyEEAUf.webp" group-title="ES| TDT AUTONOMICA",DKISS FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/56cb77a1-7bd7-4130-ad3d-b3389cee4e08.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAXFHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/m/a/xdmax.jpg.pagespeed.ic.FBuyxvetHJ.webp" group-title="ES| TDT AUTONOMICA",DMAXFHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ed1d660d-24e0-440c-b80b-240c2b0d5188.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/n/xten.jpg.pagespeed.ic.NV49ZNDuU2.webp" group-title="ES| TDT AUTONOMICA",TEN FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/075bae0b-624f-428a-98f2-15bfb5451c1d.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/xparamount-channel.jpg.pagespeed.ic.E4CiRxkKTd.webp" group-title="ES| TDT AUTONOMICA",PARAMOUNT NETWORK FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/523cfb5d-c652-4596-ac27-f4afa36944f5.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/b/q/xgol-play.jpg.pagespeed.ic.aeo-p6n_YH.webp" group-title="ES| TDT AUTONOMICA",GOL PLAY FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3993a57e-d58c-41d5-b35a-ee075c35e2ed.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRECE FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/r/e/xtrece.jpg.pagespeed.ic.AyhLQgFiVf.webp" group-title="ES| TDT AUTONOMICA",TRECE FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4654e1da-0c17-43b2-bf32-4bb4edde17f2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/r/e/a/xrealmadrid-tv.jpg.pagespeed.ic.b-MvvKKnzP.webp" group-title="ES| TDT AUTONOMICA",Realmadrid TV FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2bfa53d8-aaca-4db4-8d41-37eb7af3fac2.ts
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelemadrid.jpg.pagespeed.ic.phrA4ywVbD.webp" group-title="ES| TDT AUTONOMICA",TELEMADRID FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a8719798-d8b0-4119-902e-b48a9d7c5053.ts
+#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/n/d/xandalucia-television.jpg.pagespeed.ic.BzgknLDog2.webp" group-title="ES| TDT AUTONOMICA",AndaluciaTV FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b4cf00e1-c2ea-430d-bcfe-2921a64cdffc.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanalSur FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanalsur.jpg.pagespeed.ic.zApsvDm0tz.webp" group-title="ES| TDT AUTONOMICA",CanalSur FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3e91f7fd-46dd-4ff0-8b6b-d2218823e7f6.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanalSur2 FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-sur-andalucia.jpg.pagespeed.ic.dn1WDkgDrR.webp" group-title="ES| TDT AUTONOMICA",CanalSur2 FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cf62d9bf-762a-4c98-9053-5d377299933f.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE FHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/b/w/xbomcine.jpg.pagespeed.ic.g3RYO9g4Ky.webp" group-title="ES| TDT AUTONOMICA",BOM CINE FHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/96676e60-5577-40d3-b29e-6a1fc7199657.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CANARIAS FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelevision-canaria.jpg.pagespeed.ic.yd79xLpjLe.webp" group-title="ES| TDT AUTONOMICA",TV CANARIAS FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d06363bf-2eef-4a56-b6ff-d5a202f89fd1.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelevison-de-galicia.jpg.pagespeed.ic.juFfi0X2HJ.webp" group-title="ES| TDT AUTONOMICA",TV GALICIA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ad8609ce-b4ad-4136-ae5d-04fc296bf457.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/g/xtvgalicia2.jpg.pagespeed.ic.Wr1DK31gfI.webp" group-title="ES| TDT AUTONOMICA",TV GALICIA2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/445085d8-fab4-4116-98f2-209f00d8c9c7.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/r/a/xaragontv.jpg.pagespeed.ic.le06noTgVM.webp" group-title="ES| TDT AUTONOMICA",ARAGON TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/26aab6d9-fb40-45c1-8feb-a40247657475.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/f/o/x/xfox.jpg.pagespeed.ic.s-2ybRBff2.webp" group-title="ES| M+ CINE Y SERIES",FOX FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/88429a9a-6aba-46c9-969a-8f9fe30d51cf.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn.jpg.pagespeed.ic.ybVFxkm_3j.webp" group-title="ES| M+ CINE Y SERIES",AXN FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/17303a20-f5ab-49ff-91f4-69ad3d4d9a8e.ts
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIE FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/6/m/y/xaxn.jpg.pagespeed.ic.NIxGUM5OLy.webp" group-title="ES| M+ CINE Y SERIES",AXN MOVIE FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e68b3052-0767-4348-b5b8-b2e0617b26b4.ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/l/xcale13.jpg.pagespeed.ic.OujJGRtypH.webp" group-title="ES| M+ CINE Y SERIES",CALLE 13 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cdd70fb9-d471-4dc1-b593-01b424daa0db.ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/y/f/xsyfy.jpg.pagespeed.ic.gKpz5BonrY.webp" group-title="ES| M+ CINE Y SERIES",SYFY FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/20f8a3ba-8147-42de-8a70-c37dd2a02c94.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/xtcm.jpg.pagespeed.ic.HX8Z6NbSAF.webp" group-title="ES| M+ CINE Y SERIES",TCM FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/310c9525-4753-4515-aef6-44f048d1b4cf.ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/n/t/xtnt.jpg.pagespeed.ic.tKC_Jeois2.webp" group-title="ES| M+ CINE Y SERIES",WARNER TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ed06c59d-ddc4-41d7-91dd-705c9c92acd4.ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/e/n/xcentral-comedy.jpg.pagespeed.ic.OqRJU_5XZD.webp" group-title="ES| M+ CINE Y SERIES",Comedy Central FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bfd2a3f0-9b11-4ce5-9ebd-2cf1b07089a9.ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.eyMxGLJZWo.webp" group-title="ES| M+ CINE Y SERIES",COSMO FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f7e4d626-8b1a-4862-af07-4cf1395018aa.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.1i4Fyvct1-.webp" group-title="ES| M+ CINE Y SERIES",HOLLYWOOD FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4499628a-f495-4da0-8c86-e3e69e4e0cd7.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/m/c/xamc.jpg.pagespeed.ic.cP0_JLxnEl.webp" group-title="ES| M+ CINE Y SERIES",AMC FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b33ff39e-0fee-43db-afdc-874d159a6925.ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/r/i/xcrimeninvestigacion.jpg.pagespeed.ic.Wb44UQOLji.webp" group-title="ES| M+ CINE Y SERIES",AMC CRIME FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/441c5bd2-6ce5-40d6-affc-dc2551b0d1be.ts
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/e/j/xae.jpg.pagespeed.ic.KP5qoeLBuh.webp" group-title="ES| M+ CINE Y SERIES",AMC BREAK FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/523587d2-6231-4628-a413-5b4166575bd7.ts
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.FETdbBJzsQ.webp" group-title="ES| M+ CINE Y SERIES",SUNDANCE TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4db37429-7230-41f4-b3ee-9fd2241a4590.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.FETdbBJzsQ.webp" group-title="ES| M+ CINE Y SERIES",XTRM FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/32c721e9-a006-48fa-9f9c-251d87d8d973.ts
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/o/m/xsomos.jpg.pagespeed.ic.xuC3CwlTgy.webp" group-title="ES| M+ CINE Y SERIES",SOMOS FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4b944d54-5754-46b2-a62d-8164345e816a.ts
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/f/w/xsky-showtime.jpg.pagespeed.ic.GACf0sUnNN.webp" group-title="ES| M+ CINE Y SERIES",SkyShowtime FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/23b1e8e1-1fa3-4559-b1ff-882398c2ca83.ts
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="MAX AVANCES FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/h/0/o/xmax-avances.jpg.pagespeed.ic.jzwgBIA-jR.webp" group-title="ES| M+ CINE Y SERIES",MAX AVANCES FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f653a868-02c3-4b78-9105-dee4405d0e44.ts
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/a/r/xdark.jpg.pagespeed.ic.k7QMaExePg.webp" group-title="ES| M+ CINE Y SERIES",DARK FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f103b619-731f-4476-a96f-14008ada048a.ts
+#EXTINF:-1 tvg-id="" tvg-name="Originales por M+ FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/i/h/xoriginales-por-m.jpg.pagespeed.ic.X5ECq8JCFF.webp" group-title="ES| M+ CINE Y SERIES",Originales por M+ FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/95e334ee-dde3-4783-8038-af75b7511a69.ts
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CINE FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/b/f/xcinepormovistar.jpg.pagespeed.ic.HtSSFgoufv.webp" group-title="ES| M+ CINE Y SERIES",M+ CINE FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/022e1e22-9b62-49b6-81f8-823f100aee80.ts
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ SERIES FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-seriesmania.jpg.pagespeed.ic.GQQKTWJm82.webp" group-title="ES| M+ CINE Y SERIES",M+ SERIES FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ca7bf9cb-e4ad-4aa1-9c76-2d8fb56e30d5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.3qCPeIyvTj.webp" group-title="ES| M+ CINE Y SERIES",M+ ACCION FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/080c70d5-e776-472d-a092-d8409237d471.ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.kZP-t59Xs3.webp" group-title="ES| M+ CINE Y SERIES",M+ CINE ESPAÑOL FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/be274566-715a-4883-8e18-03a29791a429.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Classico FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/7/d/xmovistar-clasicos.jpg.pagespeed.ic.YKkRELHAbx.webp" group-title="ES| M+ CINE Y SERIES",M+ Classico FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/509b9fb1-0716-4ffc-9345-9e40e0fb8c96.ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.PrFShYVm4_.webp" group-title="ES| M+ CINE Y SERIES",M+ COMEDIA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/56a5e6dd-e5c5-4ee2-8e4c-67fa494e0dd5.ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.nLwx0ShIpi.webp" group-title="ES| M+ CINE Y SERIES",M+ DRAMA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b2bbcf50-f01e-4ea9-8445-4350c33a1146.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/8/9/xindie-por-m.jpg.pagespeed.ic.K-KioOMTa1.webp" group-title="ES| M+ CINE Y SERIES",M+ INDIE FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/28956ad4-e83b-417d-b05c-d3e3a7bc4331.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LA LIGA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.GeFDQZWTMC.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/211f9ad5-1922-4e8d-be57-8306b71996b0.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LA LIGA TV2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.j2w232yaV_.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA TV2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f2a056ae-4df7-4e66-83c6-1bc01f8f8ec9.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA3 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.SRupC8axEa.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA3 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d91b4ef8-8294-49a4-aadc-1110a16f64e3.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA4 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/d/1/xlaligatv4.jpg.pagespeed.ic.wb3SF9HTnr.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA4 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/57ab8083-5536-4388-962b-2170a981e1ed.ts
+#EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-name="M+ LA IGA TV BAR FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/8/a/f/xlaligatvbar.jpg.pagespeed.ic.yiLXgYaj93.webp" group-title="ES| M+ LIGA TV",M+ LA IGA TV BAR FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6c9af346-853d-4142-a0ff-8720718b67ba.ts
+#EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-name="M+ LaLiga TV Bar 1 FHD" tvg-logo="" group-title="ES| M+ LIGA TV",M+ LaLiga TV Bar 1 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6bceac90-16b5-41d1-b9be-136d8c636ef0.ts
+#EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-name="M+ LaLiga TV Bar 2 FHD" tvg-logo="" group-title="ES| M+ LIGA TV",M+ LaLiga TV Bar 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/01a9955f-cec7-4771-a840-5d2aacaecfa3.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGATV+ FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/z/6/xlaliga.jpg.pagespeed.ic.GAxJEpx8uS.webp" group-title="ES| M+ LIGA TV",M+ LALIGATV+ FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/65717655-d695-49a7-bd36-89187f144ae6.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA+ FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/z/6/xlaliga.jpg.pagespeed.ic.GAxJEpx8uS.webp" group-title="ES| M+ LIGA PPV",M+ LA LIGA+ FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2917c8d8-3a40-4bec-9260-8f4a3c364a9b.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga+ 2 FHD" tvg-logo="" group-title="ES| M+ LIGA PPV",M+ LaLiga+ 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8830dd96-5175-4aa5-b8de-851db2bed495.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/g/j/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d3b1310c-6e97-4570-a473-d4cd78a78893.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/l/f/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a20b4271-d90f-4c64-a7f8-f75bad9969a2.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion3 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/l/f/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion3 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/899777bc-c85f-4250-bba6-0d1b1c27ab6a.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA FHD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/w/a/xdazn-laliga.jpg.pagespeed.ic.sObO1QVSR1.webp" group-title="ES| M+ DAZN",DAZN LA LIGA FHD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e4a95fd2-e9cf-4fae-b881-c8034529fa9a.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA FHD 50FPS" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/w/a/xdazn-laliga.jpg.pagespeed.ic.sObO1QVSR1.webp" group-title="ES| M+ DAZN",DAZN LA LIGA FHD 50FPS
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bdd8008b-dc8d-4a88-b4d5-4115d920661f.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/g/1/xdaznlaliga2.jpg.pagespeed.ic.BHYXWNs9EI.webp" group-title="ES| M+ DAZN",DAZN LA LIGA 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f4772e95-0fc0-4919-8740-c0ff5f6e23c7.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD 50p" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",DAZN F1 FHD 50p
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a9cca1b2-2067-4441-b85f-93754fe4eb67.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN F1 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",M+ DAZN F1 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/80fae7d0-ad92-4a32-8ad2-4284876e1254.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",DAZN F1 FHD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d794776c-d9f9-4854-b841-22bcc21bbe3d.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 1 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.m6zcm5AwEQ.webp" group-title="ES| M+ DAZN",M+ DAZN 1 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9d4d27dc-ce52-4441-a610-597910300211.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD (AMZ)" tvg-logo="http://dedicated03.soufiane.incservers.es:5980/stream/movistar/dazn1/master1080.m3u8?u=movistar&p=289ff97676cc1c9a535dfc5fa76559cc3f02f75370ca0c5118a5bbf3a26a037d" group-title="ES| M+ DAZN",DAZN 1 FHD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2d8eae69-63ac-4230-a474-fc100c678637.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD 50FPS" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.m6zcm5AwEQ.webp" group-title="ES| M+ DAZN",DAZN 1 FHD 50FPS
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8c093b47-7094-404f-8407-0466fd897c0b.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",M+ DAZN 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/03babaea-83c9-44fe-a948-71d17ff19abb.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",DAZN 2 FHD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/abfd349c-c72c-4105-bc36-21596d5e9c39.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD 50FPS" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",DAZN 2 FHD 50FPS
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bb0b8fd0-46e5-4896-bdc8-070c3aaa9434.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 3 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.9AT_NWdRdm.webp" group-title="ES| M+ DAZN",M+ DAZN 3 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b9b26d82-7b62-455d-855f-44d383b684d3.ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.9AT_NWdRdm.webp" group-title="ES| M+ DAZN",DAZN 3 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/868aa56e-341d-489f-82bf-6e1b1f3b5146.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 4 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.w87wIXDy7f.webp" group-title="ES| M+ DAZN",M+ DAZN 4 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f9dd6b47-c18d-4a00-a72d-50719dc02c5e.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.w87wIXDy7f.webp" group-title="ES| M+ DAZN",DAZN 4 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3b24259c-f818-455b-9f9a-d8af5b70adc5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8d4e200e-8ab0-4a99-94b2-4f74e69f79d9.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/316acac1-69bf-43e6-acff-ceb4369c2310.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c796e986-98e8-4d7c-bdcf-20a91ff26431.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a5458121-bd01-44d5-863f-b8282fe8efa5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 3 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fe2923b8-66df-4df3-8e55-0dbbc0570406.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 4 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 4 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fff8bd4d-d06e-4009-926d-106e543d5971.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 5 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 5 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0c95076d-c9ed-4626-bb04-fbbdf3ea9194.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 6 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 6 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b0cfdfd2-f05e-49ea-a293-0c5f205eddb4.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 7 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 7 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bb3b0092-3855-4205-aa44-dc2726b5d511.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 8 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 8 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3272fe93-1ee7-421b-96e6-7c6614127cd0.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 9 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 9 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/781ae77a-15ad-4f9c-a7fd-2d39963e035d.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 10 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 10 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6e18340c-7bb5-4c4d-b7f0-c4df8155c48c.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 11 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 11 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9a32afc8-14e8-424e-8d1c-94f575823576.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 12 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 12 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5aefff3e-9f8c-4808-bce4-edc1da2c6795.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 13 FHD (Orange TV)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 13 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/80f4874a-ad49-4e98-bf3a-74bc10dab604.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9d62a588-0514-4b4a-85fa-073729cee38e.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ec5a1843-060e-4f45-8d71-f1be13a7603d.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c4262d6d-eb14-46b3-9276-a1309eae20ae.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5b7fc6ec-b61d-414b-b87b-7c2128d5d449.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9991d6b8-c32b-4614-bc4f-29d5999b49db.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a37c8e19-311f-4c14-8a81-00b9ba1360da.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e4fd2b6f-9a41-49a4-9dd9-b66b548489d1.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/02377147-1230-433b-a2c6-940c6f79d1b8.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 5 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ac89c23b-aabd-474a-8d5f-cbce73416c42.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 6 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/dae1ccab-f504-42d4-92c1-1ad1ddcb39cc.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG6.png" group-title="ES| M+ LIGA TV",M+ LaLiga 7 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/14873525-40b1-41da-ae3f-e207a647caac.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/89197d4c-fc24-4620-aa5c-e99dd440d6ac.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 2 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 2 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ded030b0-a0d4-475a-98fd-d2970c9565ae.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 3 FHD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 3 FHD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e40e8aab-aa88-4d05-a099-ccdf21ef7f15.ts
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg" group-title="ES| M+ DEPORTES",M+ Copa del Rey FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a7e21c72-1af3-42ae-a9b2-18d03f13cb05.ts
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="ES| M+ DEPORTES",M+ Golf FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/58d286d9-a40a-4a10-886e-3caf62cbbe03.ts
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES| M+ DEPORTES",M+ Golf 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/aa379863-6605-43b4-839a-e4613b4cfa3f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas #V FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES| M+ DEPORTES",M+ Ellas #V FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8e9a7246-99fe-488a-b62c-1c0122a530f7.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" group-title="ES| M+ DEPORTES",ES: #Vamos FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/55ba9d16-30d0-4598-aacd-a7954ceb15dc.ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_deportes_1.png" group-title="ES| M+ DEPORTES",M+ Deportes FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6791a123-cb01-4294-834b-06d2c512794d.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 2 FHD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 2 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b81b5121-aed5-45ac-ade0-1b109f4f20a3.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 3 FHD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 3 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ea986d12-e9a3-4dfa-87d3-ec5ce9711a98.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 5 FHD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 5 FHD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fceeeec8-f610-442a-a0c3-411f30aab90e.ts
+#EXTINF:-1 tvg-id="BBC Top Gear" tvg-name="M+ BBC TOP GEAR  FHD" tvg-logo="" group-title="ES| M+ BBC",M+ BBC TOP GEAR  FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e876d504-0ed7-4ec1-8675-d6005eba368c.ts
+#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA FHD" tvg-logo="" group-title="ES| M+ BBC",BBC DRAMA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f0bbb71b-e7d6-4068-a6fb-b48647233335.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC FOUD FHD" tvg-logo="" group-title="ES| M+ BBC",BBC FOUD FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/833cbed6-9087-4a86-9d0a-13bfdf38c293.ts
+#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC HISTORY FHD" tvg-logo="" group-title="ES| M+ BBC",BBC HISTORY FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7eea0f15-bc31-4f24-9c92-4383adbb88cd.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD" tvg-logo="" group-title="ES| M+ BBC",BBC WORLD FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c36fdaa0-940a-422e-9ada-cd29ac25dfc6.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="M+ EUROSPORT 1 FHD" tvg-logo="" group-title="ES| M+ DEPORTES",M+ EUROSPORT 1 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ac3633d4-49cb-477c-ad20-3d7a6be914f1.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="M+ EUROSPORT 2 FHD" tvg-logo="" group-title="ES| M+ DEPORTES",M+ EUROSPORT 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/69fe380d-047f-40ef-8804-9b0e79c62e83.ts
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/r/s/9/xdocumentalespormovistar.jpg.pagespeed.ic.besTTqNMlu.webp" group-title="ES| M+ DOCUMENTALES",M+ DOCUMENTALES FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8636b60e-255a-4637-9fc5-4531956c115d.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="M+ HISTORIA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/h/i/s/xhistoria.jpg.pagespeed.ic.qL3Sr98w5K.webp" group-title="ES| M+ DOCUMENTALES",M+ HISTORIA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/82c8aa8c-ad32-4352-ad82-2e4ded57c704.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="M+ DISCOVERY FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/w/3/xdiscovery.jpg.pagespeed.ic.EURbfCcVib.webp" group-title="ES| M+ DOCUMENTALES",M+ DISCOVERY FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/21524e13-fb60-4fe4-82b3-dd7352785a92.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ NAT GEO GRAPHIC FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/a/t/xnational-geographic.jpg.pagespeed.ic.Ga8lNe_U-g.webp" group-title="ES| M+ DOCUMENTALES",M+ NAT GEO GRAPHIC FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/efe1610a-b188-4cf0-b7b0-91144f6a5c15.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="M+ NAT GEO WILD FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-national-geographic-wild-hd-681.jpg.pagespeed.ic.A2Y1K-HxQz.webp" group-title="ES| M+ DOCUMENTALES",M+ NAT GEO WILD FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bd8461a3-5b8c-4edc-957e-f0f0d1a370a7.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BUEN VIAJE FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-buenviaje-1331.jpg.pagespeed.ic.2s0y-vsVNe.webp" group-title="ES| M+ DOCUMENTALES",M+ BUEN VIAJE FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e9a0c67b-2264-4255-b44a-c582bd46ce86.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ODISEA FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/o/d/i/xodisea.jpg.pagespeed.ic.AZKytRw9__.webp" group-title="ES| M+ DOCUMENTALES",M+ ODISEA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5a0925c0-a071-427d-89fd-4b3b1f91a769.ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="M+ AMC CRIME FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ AMC CRIME FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/28412030-9b60-4b09-95af-38fc4ae50624.ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="M+ CANAL COCINA FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CANAL COCINA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/db894609-b19d-4457-8e7f-9675e553617e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CAZA Y PEZCA FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CAZA Y PEZCA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5a339cfc-5532-47a7-bdf4-23e1489550f7.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CANAL DE CASA FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CANAL DE CASA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f34ea2dc-762a-4bbe-9a0f-ce01c4887aaa.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CASAVISION FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CASAVISION FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e90122a6-1cd3-4d9e-aa30-e32c9f29a555.ts
+#EXTINF:-1 tvg-id="Escapa TV" tvg-name="ESCAPA FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",ESCAPA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6e3c443b-f6de-4ff1-8686-c77576d2a370.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ IBERALIA FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ IBERALIA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/28d0f7dc-8c7a-4949-87d2-d912948e572d.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ MOVISTAR PLUS FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ MOVISTAR PLUS FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a024509b-287b-4c0b-a96c-230f71d9c621.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ MOVISTAR PLUS 2 FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ MOVISTAR PLUS 2 FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f3ea6e99-5a55-463e-8515-15de9c82e63f.ts
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="M+ La Resistencia FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ La Resistencia FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/dae6b1fb-702c-42f4-9052-dd467999ddd4.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ AMC SELECT FHD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ AMC SELECT FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d80504c7-0c59-4067-bfcc-ff56810c1ccf.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/i/s/xdisney-jumior.jpg.pagespeed.ic.m9tnAp7Gz3.webp" group-title="ES| INFANTILES",Disney Junior FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ebb6e482-ce0b-4edb-ae25-21dbdfa27cab.ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/i/k/xnikelodeon.jpg.pagespeed.ic.5hqi9y2spD.webp" group-title="ES| INFANTILES",Nickelodeon FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8c6282c7-3b6a-4614-8247-d90d0bc7a6e1.ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/i/c/xnickjr.jpg.pagespeed.ic.VUN8whTg89.webp" group-title="ES| INFANTILES",Nick JR FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d74cba9d-a690-43f0-9696-d97b8bfdc6ff.ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="DreamWorks FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/q/t/w/xdreamworks.jpg.pagespeed.ic.AzM_twImVr.webp" group-title="ES| INFANTILES",DreamWorks FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/57187155-f57f-4228-9942-fdb96bb365e5.ts
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO FHD" tvg-logo="" group-title="ES| M+ DEPORTES",ONETORO FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e033d645-4933-44cb-a499-0af5e8c031d1.ts
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV FHD" tvg-logo="" group-title="ES| M+ DEPORTES",EL TORO TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d4c6f653-a39c-4581-8eda-2f2ebc9eeaef.ts
+#EXTINF:-1 tvg-id="Motorvision" tvg-name="Motorvision TV FHD" tvg-logo="" group-title="ES| M+ DEPORTES",Motorvision TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/39d46d8e-0e99-48b0-8407-b93a0f0e8542.ts
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="EnFamilia FHD" tvg-logo="" group-title="ES| M+ CINE Y SERIES",EnFamilia FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0ccea97c-eeb3-4d37-bd31-ed08a2ab540a.ts
+#EXTINF:-1 tvg-id="M+ Los Goya" tvg-name="LOS GOYA FHD" tvg-logo="" group-title="ES| M+ CINE Y SERIES",LOS GOYA FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fdddfcba-4517-4cf2-b6dc-a41da345a7d1.ts
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV FHD" tvg-logo="" group-title="ES| M+ DEPORTES",Red Bull TV FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4fa3a33c-24dc-4cc8-8c73-7345d6a228e5.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="" group-title="ES| M+ CINE Y SERIES",STAR CHANNEL FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/34b020d1-63ff-44df-a220-76a489a0aac9.ts
+#EXTINF:-1 tvg-id="UBEAT" tvg-name="UBEAT FHD" tvg-logo="" group-title="ES| M+ CINE Y SERIES",UBEAT FHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e8f81a3d-99e1-4a72-b8a3-f2f622efcbbe.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 UHD (DVB)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/1/xla1.jpg.pagespeed.ic.Hjzo4OAJvw.webp" group-title="ES| TDT AUTONOMICA",LA 1 UHD (DVB)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/52078920-caff-47a7-85ae-dbd441e01ed7.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/1/xla1.jpg.pagespeed.ic.Hjzo4OAJvw.webp" group-title="ES| TDT AUTONOMICA",LA 1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/fa227f1e-aaf7-45ff-9d4b-7bfabab37ab5.ts
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/2/xla2.jpg.pagespeed.ic.KVErrktknp.webp" group-title="ES| TDT AUTONOMICA",LA 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d1a4a428-5e96-4c89-9b33-f7f45eec1242.ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/n/t/xantena-3.jpg.pagespeed.ic.a9UeH4QRxE.webp" group-title="ES| TDT AUTONOMICA",ANTENA 3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/45bc1086-e970-40ed-9b94-6e23469d5345.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD INTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKNU-1_TxTbx-cx4-oDtDInbPiYbB5a35lg&s" group-title="ES| TDT AUTONOMICA",ANTENA 3 HD INTER
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8e0399e6-e642-4b30-8c77-08742f016e14.ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/u/a/xcuatro.jpg.pagespeed.ic.z8koL2I4O_.webp" group-title="ES| TDT AUTONOMICA",CUATRO HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2ce7fa96-5ec1-460a-8278-081161446922.ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/g/r/xtelecinco.jpg.pagespeed.ic.j1ikrqSAFI.webp" group-title="ES| TDT AUTONOMICA",TELECINCO HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b8190db8-5df6-473e-8f91-05728b41c68f.ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA  HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/0/k/xlasexta.jpg.pagespeed.ic.uI8JDfSmgL.webp" group-title="ES| TDT AUTONOMICA",LA SEXTA  HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3b8130a2-5532-4fb0-8576-2b3a02a36a8c.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3Series HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.m8U-icRp-j.webp" group-title="ES| TDT AUTONOMICA",A3Series HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/90484a4e-5440-48de-9dfb-e11104f716d0.ts
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/e/g/xmega.jpg.pagespeed.ic.GE3nnYU6SP.webp" group-title="ES| TDT AUTONOMICA",MEGA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f50ec6a6-2160-4b3d-8180-8c5626305cfc.ts
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/e/o/xneox.jpg.pagespeed.ic.nvaIjDqfLF.webp" group-title="ES| TDT AUTONOMICA",NEOX HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e407cc04-f535-4d82-a939-fa3b5edb1e6e.ts
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/o/v/xnova.jpg.pagespeed.ic.3F-6nhJJL5.webp" group-title="ES| TDT AUTONOMICA",NOVA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9e0fa264-7462-43e7-8d54-b81bb9989f67.ts
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/n/e/xenergy.jpg.pagespeed.ic.mOMpaTa4Oj.webp" group-title="ES| TDT AUTONOMICA",ENERGY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9f26638f-775a-4c44-a042-c93fbfe0ec4c.ts
+#EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/f/d/f/xfdf.jpg.pagespeed.ic.celD0Sussp.webp" group-title="ES| TDT AUTONOMICA",FDF HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e98b7a0e-2fc7-4a5c-9578-273802a1f28a.ts
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BE MAD HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.OZlmll7W1g.webp" group-title="ES| TDT AUTONOMICA",BE MAD HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9346af99-337d-40c2-8259-1a38683138a2.ts
+#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/i/v/xdivinity.jpg.pagespeed.ic.GNI2OTuVRG.webp" group-title="ES| TDT AUTONOMICA",DIVINITY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8197a76f-c8b9-4e5c-93e6-352fb5f5fef1.ts
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/o/i/xboing.jpg.pagespeed.ic.QQO5sjWZLI.webp" group-title="ES| TDT AUTONOMICA",BOING HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/39251609-c3db-477d-b88b-5902dcff49cd.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/2/4/h/x24h.jpg.pagespeed.ic.l3paIFn3DP.webp" group-title="ES| TDT AUTONOMICA",24h HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/89bb1d78-d14a-4057-92db-84799010d9e2.ts
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/l/a/xclan.jpg.pagespeed.ic.yKHXJEVIkW.webp" group-title="ES| TDT AUTONOMICA",CLAN HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3c1d8fa4-a76a-4dc1-aae4-f6d3f7ac9c65.ts
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/l/a/xclan.jpg.pagespeed.ic.yKHXJEVIkW.webp" group-title="ES| TDT AUTONOMICA",CLAN
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/deb6f944-b3c3-494b-b9ff-b067949c9a3a.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDP HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xteledeporte.jpg.pagespeed.ic.Obq4DzDgVJ.webp" group-title="ES| TDT AUTONOMICA",TDP HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/36696a42-6ca7-4799-8071-3effba039e2f.ts
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/k/i/xdkiss.jpg.pagespeed.ic.HzphyEEAUf.webp" group-title="ES| TDT AUTONOMICA",DKISS HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3b6b6e51-cd2b-4a01-baff-1e929afc2d7d.ts
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/m/a/xdmax.jpg.pagespeed.ic.FBuyxvetHJ.webp" group-title="ES| TDT AUTONOMICA",DMAX HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1435262e-5d88-4d4d-9081-4046536b574f.ts
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/n/xten.jpg.pagespeed.ic.NV49ZNDuU2.webp" group-title="ES| TDT AUTONOMICA",TEN HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/58fb3cd8-e0df-4e06-b752-573ec6619919.ts
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/xparamount-channel.jpg.pagespeed.ic.E4CiRxkKTd.webp" group-title="ES| TDT AUTONOMICA",PARAMOUNT NETWORK HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7a7f3a38-7dd6-44b1-8855-3396a8fae2ed.ts
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/b/q/xgol-play.jpg.pagespeed.ic.aeo-p6n_YH.webp" group-title="ES| TDT AUTONOMICA",GOL PLAY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9cb68fdf-96e1-4dbc-99e3-d5d50aac0be6.ts
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/r/e/xtrece.jpg.pagespeed.ic.AyhLQgFiVf.webp" group-title="ES| TDT AUTONOMICA",TRECE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8c16e056-daac-459c-95c0-b4bb664ca344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/r/e/a/xrealmadrid-tv.jpg.pagespeed.ic.b-MvvKKnzP.webp" group-title="ES| TDT AUTONOMICA",Realmadrid TV HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7da8b730-1779-43be-a360-b869e2981f65.ts
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelemadrid.jpg.pagespeed.ic.phrA4ywVbD.webp" group-title="ES| TDT AUTONOMICA",TELEMADRID HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0ee8054f-09a0-476b-a533-7fc612b3aeca.ts
+#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/n/d/xandalucia-television.jpg.pagespeed.ic.BzgknLDog2.webp" group-title="ES| TDT AUTONOMICA",AndaluciaTV HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8d6837ca-c926-4b60-855c-50185dc7119e.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanalSur HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanalsur.jpg.pagespeed.ic.zApsvDm0tz.webp" group-title="ES| TDT AUTONOMICA",CanalSur HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c0156a53-2dfe-4b4c-a1be-f1e799e1f72f.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanalSur2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-sur-andalucia.jpg.pagespeed.ic.dn1WDkgDrR.webp" group-title="ES| TDT AUTONOMICA",CanalSur2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f7ce7312-e1b3-4f9a-9716-3a0cb6df61ff.ts
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/b/w/xbomcine.jpg.pagespeed.ic.g3RYO9g4Ky.webp" group-title="ES| TDT AUTONOMICA",BOM CINE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/05ab44a6-0b28-4817-b803-9b9501bf782c.ts
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/3/xtv3.jpg.pagespeed.ic.GaD9Ghbe5W.webp" group-title="ES| TDT AUTONOMICA",TV3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2532b6b4-4ccb-4332-99dd-68fcce4ccec0.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 CAT HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/3/xtv3-cat.jpg.pagespeed.ic.8_b9GLId3h.webp" group-title="ES| TDT AUTONOMICA",TV3 CAT HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9b09332e-81eb-4de1-8167-fceb160dcc74.ts
+#EXTINF:-1 tvg-id="324" tvg-name="324 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/3/2/4/x324.jpg.pagespeed.ic.aojRErQ-LG.webp" group-title="ES| TDT AUTONOMICA",324 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1646e7cb-eb32-48e7-9a65-86c5f0345c18.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/s/p/xesports3.jpg.pagespeed.ic.UF2uk2qM66.webp" group-title="ES| TDT AUTONOMICA",Esport 3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2b299e75-be45-4c22-9e87-2c2ec865c4c0.ts
+#EXTINF:-1 tvg-id="ETB1" tvg-name="ETB1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetb1.jpg.pagespeed.ic.wmw-EUaurf.webp" group-title="ES| TDT AUTONOMICA",ETB1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e1f2bc19-4d23-48d7-99cb-e461548e0429.ts
+#EXTINF:-1 tvg-id="ETB2" tvg-name="ETB2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetb2.jpg.pagespeed.ic.ABRh4Dpf-W.webp" group-title="ES| TDT AUTONOMICA",ETB2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/73b7f8b8-c97c-4615-b652-614974339434.ts
+#EXTINF:-1 tvg-id="ETB3" tvg-name="ETB3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetb3.jpg.pagespeed.ic.xcXlsd90Oo.webp" group-title="ES| TDT AUTONOMICA",ETB3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e80eb14a-f1ae-4862-aa5f-0c6a67c2123d.ts
+#EXTINF:-1 tvg-id="ETB4" tvg-name="ETB4 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/t/b/xetb4.jpg.pagespeed.ic.bs7Bf0xwCh.webp" group-title="ES| TDT AUTONOMICA",ETB4 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/37a4e2d4-9066-4ef8-9a50-40cce2909563.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CANARIAS HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelevision-canaria.jpg.pagespeed.ic.yd79xLpjLe.webp" group-title="ES| TDT AUTONOMICA",TV CANARIAS HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f38d6e27-d8f6-44e5-8362-d5f7d9d6d304.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/e/l/xtelevison-de-galicia.jpg.pagespeed.ic.juFfi0X2HJ.webp" group-title="ES| TDT AUTONOMICA",TV GALICIA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4af01f8b-ab13-4f4c-9c78-ebf599446dc9.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/g/xtvgalicia2.jpg.pagespeed.ic.Wr1DK31gfI.webp" group-title="ES| TDT AUTONOMICA",TV GALICIA2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c5b79724-485d-4991-8399-f0b9b847ddb0.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/r/a/xaragontv.jpg.pagespeed.ic.le06noTgVM.webp" group-title="ES| TDT AUTONOMICA",ARAGON TV HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/82a20a47-75a8-4ba3-b536-ba9c9f5a8fdc.ts
+#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMM HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/m/m/xcmmtv.jpg.pagespeed.ic.w8EIc7Si40.webp" group-title="ES| TDT AUTONOMICA",CMM HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d142740c-c50b-4b82-b779-cabb3d894ddf.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 8 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/a/8/xla8.jpg.pagespeed.ic.PSUF-xXFfF.webp" group-title="ES| TDT AUTONOMICA",LA 8 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a08fd603-9367-4f98-b4e0-05f22aaebbdf.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/f/o/x/xfox.jpg.pagespeed.ic.s-2ybRBff2.webp" group-title="ES| M+ CINE Y SERIES",FOX HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/85476b76-18f0-4e99-8883-51e3a34b1705.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/x/n/xaxn.jpg.pagespeed.ic.ybVFxkm_3j.webp" group-title="ES| M+ CINE Y SERIES",AXN HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2912d18d-f357-4404-854c-1b717226a16f.ts
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIE HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/6/m/y/xaxn.jpg.pagespeed.ic.NIxGUM5OLy.webp" group-title="ES| M+ CINE Y SERIES",AXN MOVIE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/34a1d683-4bb6-4ec7-83dd-54c72343d77c.ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/l/xcale13.jpg.pagespeed.ic.OujJGRtypH.webp" group-title="ES| M+ CINE Y SERIES",CALLE 13 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ac08fb95-530f-41ec-9283-a68475db432c.ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/y/f/xsyfy.jpg.pagespeed.ic.gKpz5BonrY.webp" group-title="ES| M+ CINE Y SERIES",SYFY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9723e547-260c-4637-80e8-14e0ebd3a03e.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/xtcm.jpg.pagespeed.ic.HX8Z6NbSAF.webp" group-title="ES| M+ CINE Y SERIES",TCM HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/61b0c4d6-38b1-4d7e-9833-47a94c02c06d.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/c/m/xtcm.jpg.pagespeed.ic.HX8Z6NbSAF.webp" group-title="ES| M+ CINE Y SERIES",TCM
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9fbb406d-4504-43a6-b0eb-89d03a86b1a5.ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/n/t/xtnt.jpg.pagespeed.ic.tKC_Jeois2.webp" group-title="ES| M+ CINE Y SERIES",WARNER TV HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7d22c024-4325-4b24-974d-1a275dd15952.ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/e/n/xcentral-comedy.jpg.pagespeed.ic.OqRJU_5XZD.webp" group-title="ES| M+ CINE Y SERIES",COMEDY CENTRAL HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/807a091f-1087-480a-8433-442b91751970.ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.eyMxGLJZWo.webp" group-title="ES| M+ CINE Y SERIES",COSMO HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ddeb774f-e4f8-42de-8a4a-28912a230d3a.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-hollywood.jpg.pagespeed.ic.1i4Fyvct1-.webp" group-title="ES| M+ CINE Y SERIES",HOLLYWOOD HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/24a51cf8-66d8-440d-824e-68956c8b7509.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/m/c/xamc.jpg.pagespeed.ic.cP0_JLxnEl.webp" group-title="ES| M+ CINE Y SERIES",AMC HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6fddb262-b6f9-4434-b1c5-e60454ce51cb.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/m/c/xamc.jpg.pagespeed.ic.cP0_JLxnEl.webp" group-title="ES| M+ CINE Y SERIES",AMC
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/211caa86-4a5e-49d2-a72e-087e763fb28c.ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/r/i/xcrimeninvestigacion.jpg.pagespeed.ic.Wb44UQOLji.webp" group-title="ES| M+ CINE Y SERIES",AMC CRIME HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/06fb9d6a-a00f-4f04-bfc2-be75a6854cfd.ts
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.FETdbBJzsQ.webp" group-title="ES| M+ CINE Y SERIES",SUNDANCE TV HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8e34d151-e183-4ce3-90e7-3d1c6627bc2a.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/t/r/xxtrm.jpg.pagespeed.ic.6pQ2WJSp9a.webp" group-title="ES| M+ CINE Y SERIES",XTRM HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/97001354-206e-46cd-bb25-2498d27110df.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/t/r/xxtrm.jpg.pagespeed.ic.6pQ2WJSp9a.webp" group-title="ES| M+ CINE Y SERIES",XTRM
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/962331f9-420b-4d26-b016-850aae897148.ts
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/o/m/xsomos.jpg.pagespeed.ic.xuC3CwlTgy.webp" group-title="ES| M+ CINE Y SERIES",SOMOS HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/441374dd-97b8-4b81-ac0f-5c908412a373.ts
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/f/w/xsky-showtime.jpg.pagespeed.ic.GACf0sUnNN.webp" group-title="ES| M+ CINE Y SERIES",SkyShowtime HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/292ee471-80a9-4d1b-9d9b-01e9851a0e98.ts
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/f/w/xsky-showtime.jpg.pagespeed.ic.GACf0sUnNN.webp" group-title="ES| M+ CINE Y SERIES",SkyShowtime
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1cad7e6d-a3fc-4d7c-9f79-bb69c09a3089.ts
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="MAX AVANCES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/h/0/o/xmax-avances.jpg.pagespeed.ic.jzwgBIA-jR.webp" group-title="ES| M+ CINE Y SERIES",MAX AVANCES HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5eeec971-a348-4f5b-a5e4-64fe4592d3c2.ts
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="MAX AVANCES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/h/0/o/xmax-avances.jpg.pagespeed.ic.jzwgBIA-jR.webp" group-title="ES| M+ CINE Y SERIES",MAX AVANCES
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1ad5711a-b188-44c5-943b-bf4523770605.ts
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/a/r/xdark.jpg.pagespeed.ic.k7QMaExePg.webp" group-title="ES| M+ CINE Y SERIES",DARK HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/65c9e4ac-5d2c-4a1e-a806-72ec68141c5e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Originales por M+ HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/i/h/xoriginales-por-m.jpg.pagespeed.ic.X5ECq8JCFF.webp" group-title="ES| M+ CINE Y SERIES",Originales por M+ HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/97ee0999-d111-4390-9ccd-4663551bef6c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Originales por M+" tvg-logo="https://cdn.sincroguia.tv/uploads/images/x/i/h/xoriginales-por-m.jpg.pagespeed.ic.X5ECq8JCFF.webp" group-title="ES| M+ CINE Y SERIES",Originales por M+
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/954048bb-258f-494c-89fa-64effaaf2728.ts
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CINE HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/n/b/f/xcinepormovistar.jpg.pagespeed.ic.HtSSFgoufv.webp" group-title="ES| M+ CINE Y SERIES",M+ CINE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b4cba9cd-fa13-4907-9920-9dbf5e8c1ce9.ts
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ SERIES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-seriesmania.jpg.pagespeed.ic.GQQKTWJm82.webp" group-title="ES| M+ CINE Y SERIES",M+ SERIES HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/dda5d8a0-9b7d-460f-aa98-16889a75706e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.3qCPeIyvTj.webp" group-title="ES| M+ CINE Y SERIES",M+ ACCION HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/75df844b-8a5b-442f-85c7-c6111882c812.ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.kZP-t59Xs3.webp" group-title="ES| M+ CINE Y SERIES",M+ CINE ESPAÑOL HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d8b2b6c3-1f1c-4f4d-ba4c-bc1d591f2287.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clasico HD" tvg-logo="" group-title="ES| M+ CINE Y SERIES",M+ Clasico HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1649ea0f-38be-4510-84e4-3548eebfe6af.ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.PrFShYVm4_.webp" group-title="ES| M+ CINE Y SERIES",M+ COMEDIA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/69380075-3b7c-4c62-bc31-69190edff524.ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.nLwx0ShIpi.webp" group-title="ES| M+ CINE Y SERIES",M+ DRAMA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/918d8a96-ae18-4f80-8866-1a23f5fd7daf.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/8/9/xindie-por-m.jpg.pagespeed.ic.K-KioOMTa1.webp" group-title="ES| M+ CINE Y SERIES",M+ INDIE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f81fa0c5-7089-4b96-8779-aa7aeca072fd.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LA LIGA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.GeFDQZWTMC.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/88f65aec-42e8-4e24-aed9-7228bb8eb6dc.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LA LIGA TV2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.j2w232yaV_.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA TV2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2c253204-277c-46ac-a074-028d6cb3679b.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.SRupC8axEa.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e06a6cf7-38e5-4108-9a5e-4294fa63828e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA4 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/d/1/xlaligatv4.jpg.pagespeed.ic.wb3SF9HTnr.webp" group-title="ES| M+ LIGA TV",M+ LA LIGA4 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/abf2c3ab-dc7a-4912-b7b0-9e4dac8c0b4e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGATV UHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/k/r/xlaliga-tv.jpg.pagespeed.ic.WG6RhyB-30.webp" group-title="ES| M+ LIGA TV",M+ LA LIGATV UHD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/67f841fe-0886-49a5-af99-36dced43b280.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV HD hevc" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/k/r/xlaliga-tv.jpg.pagespeed.ic.WG6RhyB-30.webp" group-title="ES| M+ LIGA TV",M+ LALIGA TV HD hevc
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/abc1674e-c4dd-4ddb-adda-61efee8d79bc.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV hevc 576p" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/k/r/xlaliga-tv.jpg.pagespeed.ic.WG6RhyB-30.webp" group-title="ES| M+ LIGA TV",M+ LALIGA TV hevc 576p
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6240f125-2bea-45ff-913b-75210c5dd905.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA+" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/z/6/xlaliga.jpg.pagespeed.ic.GAxJEpx8uS.webp" group-title="ES| M+ LIGA PPV",M+ LA LIGA+
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/774ae29b-4dcd-4b7f-a831-90cc155a3edc.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA+ 2 HD" tvg-logo="" group-title="ES| M+ LIGA PPV",M+ LA LIGA+ 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1f907d8f-a78f-48f3-bc0b-49cca1e2aa89.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA+ 2" tvg-logo="" group-title="ES| M+ LIGA PPV",M+ LA LIGA+ 2
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b62890cf-36d1-46dc-9370-920cbb73f278.ts
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/g/j/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ba2b73f7-c1ba-4364-80e6-58b55c9791c1.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/l/f/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4160672b-dc71-4b34-9358-de92b064de04.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/l/f/xlaliga-hypermotion.jpg.pagespeed.ic.ssf_VsfrJy.webp" group-title="ES| M+ LIGA PPV",LaLiga TV Hypermotion3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a25f2f27-57c9-4c6b-8a28-e7e39f2a61d0.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="M+ DAZN LA LIGA HD" tvg-logo="" group-title="ES| M+ DAZN",M+ DAZN LA LIGA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b088ba5b-19a0-423f-9216-5e7228dc21d6.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN LA LIGA HD (AMZ)" tvg-logo="" group-title="ES| M+ DAZN",M+ DAZN LA LIGA HD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1e388af9-0ec9-415a-894f-6ddbc65b131d.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/w/a/xdazn-laliga.jpg.pagespeed.ic.sObO1QVSR1.webp" group-title="ES| M+ DAZN",DAZN LA LIGA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a74e55a4-5b99-4b1c-aed3-dc5c59fa5c0c.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/4/w/a/xdazn-laliga.jpg.pagespeed.ic.sObO1QVSR1.webp" group-title="ES| M+ DAZN",DAZN LA LIGA (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ca77afa4-5964-4fd7-9ede-07f3962670d7.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/l/g/1/xdaznlaliga2.jpg.pagespeed.ic.BHYXWNs9EI.webp" group-title="ES| M+ DAZN",DAZN LA LIGA 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c9824944-3a4f-464d-bf14-bdc2b8e14f9a.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",DAZN F1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6940a9d1-ea1d-478f-9b39-1e14771c75f4.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F 1 HD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",DAZN F 1 HD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/bc4606c2-9916-43d5-8a39-2c8d45cc97fd.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN F1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",M+ DAZN F1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f5c58186-70d2-42c9-a87d-3129ba19e33a.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xdaznf1.jpg.pagespeed.ic.hKM1vAno8n.webp" group-title="ES| M+ DAZN",DAZN F1 (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4481fa51-82fa-468d-bb51-5d9db08947c1.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.m6zcm5AwEQ.webp" group-title="ES| M+ DAZN",M+ DAZN 1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c5395526-2b07-40c0-b51e-1fe25b456222.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.m6zcm5AwEQ.webp" group-title="ES| M+ DAZN",DAZN 1 HD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2ae7b75a-3841-476d-b549-4573cbc5464b.ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.m6zcm5AwEQ.webp" group-title="ES| M+ DAZN",DAZN 1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cef3d4dc-6233-4d0d-be26-511b1516d5c7.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",M+ DAZN 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a2f1ada7-cec0-4e00-86c0-edd9e752fa73.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD (AMZ)" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",DAZN 2 HD (AMZ)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/637ad48b-369c-45bf-958d-9565b2de7007.ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.c9tthdmcjw.webp" group-title="ES| M+ DAZN",DAZN 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/054606b7-f55b-4e0e-a87a-85b10fa5c791.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.9AT_NWdRdm.webp" group-title="ES| M+ DAZN",M+ DAZN 3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4ae86c2d-a935-418a-9d26-a55a62f9add1.ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.9AT_NWdRdm.webp" group-title="ES| M+ DAZN",DAZN 3 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7f6406f0-a941-4e40-9567-b15bafade726.ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.9AT_NWdRdm.webp" group-title="ES| M+ DAZN",DAZN 3
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5aff5b3b-cae5-460e-a2d4-02a267a86d18.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN 4 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.w87wIXDy7f.webp" group-title="ES| M+ DAZN",M+ DAZN 4 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b3180195-7c1e-47c7-892d-c993abef470c.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.w87wIXDy7f.webp" group-title="ES| M+ DAZN",DAZN 4 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5d61bb12-bd22-4fa4-b196-f600e8187d80.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.w87wIXDy7f.webp" group-title="ES| M+ DAZN",DAZN 4
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0d33994d-e187-4892-9e14-38a5f14b0ae9.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1b673f6f-0d8b-4743-90de-e55504e214bb.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a88145d4-218c-467e-8c5a-9e2cf018f308.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/57c0226b-17c4-4651-9d74-07a84f4d116a.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/aae8143a-1e9c-45d9-a61e-43de2e2e74fa.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c3f522db-6fd0-47e7-b5df-f3d765ba3103.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/876dccd6-3c17-407e-94ca-6cf83a2d7434.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7f772431-45d2-4522-9b30-f3df259c5515.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 2 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/988e599b-7e31-4f69-a93a-fd3163343315.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 3 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2883a914-ad58-4651-9331-0cc65630082c.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 3 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e0fa3044-0271-446f-9957-eef4477e1527.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 3 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4462d250-402c-414d-9e44-0b77c8c79f43.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 3 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/47e73cce-8491-46f1-aaba-30a6e434e1c1.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 4 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 4 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9a1be8df-903b-42f8-a899-f68763cf6f62.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 4 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 4 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1622e128-2fab-4883-a9a1-ae3f1bbbe928.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 4 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 4 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/700ece52-e3c5-4573-b4a4-d2ec35ce91b4.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 4 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 4 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/38c85f15-ad05-4449-b6cd-f6a283c7271b.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 5 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 5 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/624a2b59-f358-447d-939f-32370f33e093.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 5 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 5 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d00b4415-0916-4d64-ab98-a1208cf1f84f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 5 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 5 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/21f4d80d-e027-4dc7-adc3-1e857440376e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 5 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 5 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a05b81e7-cc2c-4d9d-86f3-370b6577fa30.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 6 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 6 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ecfde3e2-914d-4ce5-a11e-c342f075a41a.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 6 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 6 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0b161e42-bd34-4a4d-9446-0d6ee16940af.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 6 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 6 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b0123222-cd0d-4c11-8730-4c1fa6b5be05.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 6 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 6 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f629a3d1-226c-4c4a-9767-b198e1d2e59f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 7 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 7 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e8be2717-dc8d-45f7-a350-e4a70d4cd73f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 7 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 7 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/4f322952-02af-4ed1-a004-285ce1bb7970.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 7 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 7 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/140605c6-c604-4ddb-b40b-f464fc471026.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 8 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a4bbda82-0c9f-4613-a625-13adda7cc2e2.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 14 (Solo Eventos)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc14.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 14 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e2ca1bcd-d738-41a1-b55f-d3876394c2ed.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 15 (Solo Eventos)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc15.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 15 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/05c19bcb-0de0-4367-b6a2-4344e8eaf3b2.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 16 (Solo Eventos)" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc16.png" group-title="ES| M+ LIGA CAMPEON",M+ Liga de Campeones 16 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e77085e5-91a5-474f-bb03-81faf3528c4d.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+ LaLiga 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4K
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ab848793-70fa-4a58-ab96-6b381ed94fce.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/7bb20edd-7915-4363-bc8f-920ce0e6cdcd.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/35af8faf-2225-40f9-9480-3a5a892a2a0a.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e11b8557-313b-4e14-8f58-28366cefcd2f.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ES| M+ LIGA TV",M+ LaLiga
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a6ff474b-d78f-4ad3-a0d4-2d03e4720fb0.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cc0dcf96-eb28-40c9-bdd3-0bed0946cf37.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5be66b29-8500-4565-b007-aa81c17abf63.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/173064e5-f204-46f5-8d68-a959e98b9144.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="ES| M+ LIGA TV",M+ LaLiga 2 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/85c6addc-94a0-4698-9973-73e80525c137.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2df7de0c-426b-4fe2-84a7-5a0a2f7ad348.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f89cfdd0-bc6a-4a17-b752-908ae7868c48.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8176d581-a1fc-4862-b8d8-d44d376d91d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ES| M+ LIGA TV",M+ LaLiga 3 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6af3447c-6855-47e1-9cdc-7df55679beca.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/9d55e115-dd6f-4295-8419-d27708979bc6.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" group-title="ES| M+ LIGA TV",M+ LaLiga 4 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e2d9081c-f9f3-463c-96c0-fd23e1d5e8ee.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 5 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c81a18f7-b354-45a5-88ad-460bc1b77b4f.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 5 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ea304083-b2ee-4385-b11a-521c323dac22.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 6 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/be2a8522-0907-4cf3-9d6d-18c309b87efb.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="ES| M+ LIGA TV",M+ LaLiga 6 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f9c67e81-00a4-456a-ba53-62ee702dbfa0.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG6.png" group-title="ES| M+ LIGA TV",M+ LaLiga 7 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6365a198-741c-4bae-9ce6-fb8b561a651e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG6.png" group-title="ES| M+ LIGA TV",M+ LaLiga 7 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cc1711ce-c7c7-44a8-8348-9b835746049a.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0c296b19-60c9-47fd-92a1-ba6f9f5250da.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ecbc768a-d1c5-4089-97a7-dacd1c2b3c47.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 2 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 2 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/08c28144-ad33-43a0-b4af-83229f2008c5.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 2 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 2 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/42dcb6c3-c1a6-4a58-bc85-036fd2403af4.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 3 HD (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 3 HD (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/aa0f61c5-fb8b-411d-af12-836b55b5a053.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga Hypermotion 3 (Orange TV)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ES| M+ LIGA PPV",M+ LaLiga Hypermotion 3 (Orange TV)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/42316132-7d8e-4d7b-b08a-5f9c2b5c20cb.ts
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg" group-title="ES| M+ DEPORTES",M+ Copa del Rey HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/012c4fdd-1373-4d28-af30-22aae5bc88a5.ts
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://cdn.sincroguia.tv/uploads/images/8/a/k/xm-copa-del-rey.jpg.pagespeed.ic.1epkbC8RNZ.jpg" group-title="ES| M+ DEPORTES",M+ Copa del Rey
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a78c3ae6-ae65-4ed4-98a5-b46134b92850.ts
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="ES| M+ DEPORTES",M+ Golf HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/58bbc81a-5a42-4eac-953a-278a7807c4ac.ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="ES| M+ DEPORTES",M+ Golf
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b815ab5f-c3c2-4e05-9b8d-cb96115920ba.ts
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES| M+ DEPORTES",M+ Golf 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/f0ced176-d57d-4336-a0e4-75cc6288c5a0.ts
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES| M+ DEPORTES",M+ Golf 2
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/de325186-3d1c-4a64-83e7-8cd2e4179b9b.ts
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ Ellas #V HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES| M+ DEPORTES",M+ Ellas #V HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b9ae9476-9c0c-46a8-b6e0-04c096c3b189.ts
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ Ellas #V" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ES| M+ DEPORTES",M+ Ellas #V
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/681b65ac-0943-47b9-8167-8bffc62461d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" group-title="ES| M+ DEPORTES",ES: #Vamos HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3962fa35-504f-48b8-a07c-f283afb7ed91.ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES: #Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/VAMOSD.png" group-title="ES| M+ DEPORTES",ES: #Vamos
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/526183b4-e985-400d-90eb-3d0c2afddd38.ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_deportes_1.png" group-title="ES| M+ DEPORTES",M+ Deportes HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/96a1b59b-ebf6-448f-8043-b1c4ffe46aa2.ts
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_deportes_1.png" group-title="ES| M+ DEPORTES",M+ Deportes
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0db695c8-c688-4656-8bb8-555ab96764e7.ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 2 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/0560b77d-22dd-4523-b759-e8b4597a86f9.ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 2 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3c84a0b7-14db-4401-96c3-94e5e543ded4.ts
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 HD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 3 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/326f3ab8-c996-4ae7-8917-cf59c4b27ca6.ts
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 3 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c0e7743f-05df-4b5c-9b03-244c0a547756.ts
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 HD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 4 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c8b4fce4-2ef9-459c-a793-d8c5ff96e96e.ts
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 4 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3936ff44-79ad-4251-b0d8-c3a9c4d88f15.ts
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 HD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 5 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/33cd087c-4986-4c05-bbac-59d52716d5cb.ts
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 5 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/09b95d71-541a-42b6-9d0e-1dab546f57aa.ts
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 HD (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 6 HD (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/2a368dc0-c69d-49ca-a73e-b28c7cfe33a2.ts
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 6 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b4a6854c-9214-4298-9ff9-19073b91be92.ts
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 (Solo Eventos)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar-deportes.png" group-title="ES| M+ DEPORTES",M+ Deportes 7 (Solo Eventos)
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/36c598b8-bf3d-4e55-a2c8-1d683bbbbd67.ts
+#EXTINF:-1 tvg-id="BBC Top Gear" tvg-name="M+ BBC TOP GEAR HD" tvg-logo="" group-title="ES| M+ BBC",M+ BBC TOP GEAR HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e3214e5d-09c8-47a6-a4a5-26f5508ef172.ts
+#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA HD" tvg-logo="" group-title="ES| M+ BBC",BBC DRAMA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c77b1ae3-5b37-4c80-8a68-34c33d075dee.ts
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC FOUD HD" tvg-logo="" group-title="ES| M+ BBC",BBC FOUD HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6078670e-e11d-4bbc-882f-1a8a9f88d3d6.ts
+#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC HISTORY HD" tvg-logo="" group-title="ES| M+ BBC",BBC HISTORY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1c4ef570-67b2-472c-bd00-781a800e7152.ts
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="BBC WORLD HD" tvg-logo="" group-title="ES| M+ BBC",BBC WORLD HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/81182a86-611d-4cf4-95e7-d3ac2e6605af.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="M+ EUROSPORT 1 HD" tvg-logo="" group-title="ES| M+ DEPORTES",M+ EUROSPORT 1 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3d7a6d46-190c-4f4c-b034-fce0cee102e4.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="M+ EUROSPORT 2 HD" tvg-logo="" group-title="ES| M+ DEPORTES",M+ EUROSPORT 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/b4166794-d902-43c0-9856-3576c109ff31.ts
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/r/s/9/xdocumentalespormovistar.jpg.pagespeed.ic.besTTqNMlu.webp" group-title="ES| M+ DOCUMENTALES",M+ DOCUMENTALES HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/a2fa01da-078e-462f-99cc-069eb46457ff.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="M+ HISTORIA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ HISTORIA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8d7b382f-3103-4e8c-839b-f33b8f19e552.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="M+ DISCOVERY HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ DISCOVERY HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/57f0b1ed-53e9-4e5b-acf4-e315802d288b.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="M+ NAT GEO GRAPHIC HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ NAT GEO GRAPHIC HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/be724346-1771-4e64-8945-4cd418e21037.ts
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d10223f6-df7a-402a-a517-3a592f925606.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BUEN VIAJE HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ BUEN VIAJE HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/5a219c2a-30ff-4577-9f73-b8633113ee7a.ts
+#EXTINF:-1 tvg-id="Odisea" tvg-name="M+ ODISEA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ ODISEA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/d285a1d2-5a6f-4f70-aba1-09e4cd85d751.ts
+#EXTINF:-1 tvg-id="Odisea" tvg-name="M+ ODISEA" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ ODISEA
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/6cb41904-8006-4ea3-ab9c-2e504e388cb6.ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="M+ AMC CRIME HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ AMC CRIME HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/3fb711ec-6e89-4e8f-81f2-99b5b254092f.ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="M+ CANAL COCINA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CANAL COCINA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/c47cd205-3a6a-45ef-b276-de78f091c3d8.ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="M+ CAZA Y PEZCA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CAZA Y PEZCA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e4868427-0cd6-4b61-99ba-772f040cf3ab.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CANAL DE CASA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CANAL DE CASA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/cebe4df0-9e67-4280-8dd7-b3c7f3e1e82e.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CASAVISION HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ CASAVISION HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/8150011d-fa7b-42f7-8fba-d84f77087f5d.ts
+#EXTINF:-1 tvg-id="Escapa TV" tvg-name="ESCAPA HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",ESCAPA HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/466f8564-4390-4552-9d9d-74b12b859595.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ MOVISTAR PLUS 2 HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ MOVISTAR PLUS 2 HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/1d8da276-1428-4603-aec4-02871e8072fb.ts
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="M+ La Resistencia HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ La Resistencia HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/e244b8cd-fa95-4ffa-a03c-2486e90dba20.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ AMC SELECT HD" tvg-logo="" group-title="ES| M+ DOCUMENTALES",M+ AMC SELECT HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/ddbba2e1-930c-422c-ae2b-435f3b5f9f92.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/i/s/xdisney-jumior.jpg.pagespeed.ic.m9tnAp7Gz3.webp" group-title="ES| INFANTILES",Disney Junior HD
+http://pt.enero2025.top:80/live/2411d3gk32/8bc799446ae9e373/28bc104b-48fc-4180-be6e-e239fa953eac.ts
