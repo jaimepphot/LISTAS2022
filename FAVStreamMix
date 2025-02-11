@@ -1,81 +1,119 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93170
-#EXTINF:-1,LA 2 HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93173
-#EXTINF:-1,ANTENA 3 HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93174
-#EXTINF:-1,CUATRO
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93177
-#EXTINF:-1,TELECINCO HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93179
-#EXTINF:-1,LA SEXTA HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93180
-#EXTINF:-1,DMAX HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651252
-#EXTINF:-1,DISCOVERY HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651244
-#EXTINF:-1,ODISEA SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651237
-#EXTINF:-1,HISTORIA SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651242
-#EXTINF:-1,CANAL DE CASA HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651221
-#EXTINF:-1,LA RESISTENCIA HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/507250
-#EXTINF:-1,NAT GEO SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651246
-#EXTINF:-1,NAT GEO WILD SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651249
-#EXTINF:-1,CANAL COCINA 4k
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/651224
-#EXTINF:-1,AMC HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/532060
-#EXTINF:-1,AMC CRIME
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/661790
-#EXTINF:-1,FOX SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93218
-#EXTINF:-1,AXN HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93221
-#EXTINF:-1,CALLE 13 SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93216
-#EXTINF:-1,SYFY HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93231
-#EXTINF:-1,DARK SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/511697
-#EXTINF:-1,COSMO
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/109742
-#EXTINF:-1,COMEDY CENTRAL HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/109736
-#EXTINF:-1,SUNDANCE HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93204
-#EXTINF:-1,XTRM HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93207
-#EXTINF:-1,HOLLYWOOD HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93199
-#EXTINF:-1,TCM SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93202
-#EXTINF:-1,SOMOS HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93208
-#EXTINF:-1,#VAMOS SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/387332
-#EXTINF:-1,ACCION HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/184134
-#EXTINF:-1,COMEDIA HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93190
-#EXTINF:-1,DRAMA HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/109738
-#EXTINF:-1,CINE ESPANOL HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93194
-#EXTINF:-1,A3SERIES
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/93239
-#EXTINF:-1,DAZN F1
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/567514
-#EXTINF:-1,DAZN F1 SD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/565597
-#EXTINF:-1,DAZN F1 HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/507238
-#EXTINF:-1,DAZN 1 HD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/401063
-#EXTINF:-1,DAZN 1 FHD
-http://nxtspave.com:8080/T644013196/yPSjpxnGMz/401064
+#EXTINF:-1, LA 1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840277
+#EXTINF:-1, LA 2 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840276
+#EXTINF:-1, ANTENA 3 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840275
+#EXTINF:-1, CUATRO 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840274
+#EXTINF:-1, TELECINCO 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840273
+#EXTINF:-1, LA SEXTA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840272
+#EXTINF:-1, DMAX 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839899
+#EXTINF:-1, DISCOVERY CHANNEL 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839905
+#EXTINF:-1, ODISEA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839882
+#EXTINF:-1, HISTORIA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839884
+#EXTINF:-1, CANAL DECASA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840206
+#EXTINF:-1, LA RESISTENCIA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840096
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839885
+#EXTINF:-1, NATIONAL GEOGRAPHIC 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839886
+#EXTINF:-1, IBERALIA TV 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840194
+#EXTINF:-1, MOVISTAR DOCUMENTALES 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840097
+#EXTINF:-1, MOVISTAR HIT 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840086
+#EXTINF:-1, MOVISTAR PLUS+ 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840088
+#EXTINF:-1, AMC 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855918
+#EXTINF:-1, AMC BREAK 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855920
+#EXTINF:-1, AMC CRIME 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855919
+#EXTINF:-1, STAR CHANNEL (FOX) 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840121
+#EXTINF:-1, SUNDANCE TV 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855927
+#EXTINF:-1, XTRM 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855926
+#EXTINF:-1, AXN 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840174
+#EXTINF:-1, CALLE 13 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840171
+#EXTINF:-1, DARK 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855921
+#EXTINF:-1, COSMO 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840166
+#EXTINF:-1, COMEDY CENTRAL 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840172
+#EXTINF:-1, SUNDANCE TV RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855907
+#EXTINF:-1, CANAL HOLLYWOOD 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855922
+#EXTINF:-1, XTRM RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855906
+#EXTINF:-1, CANAL HOLLYWOOD RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855902
+#EXTINF:-1, TCM 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840163
+#EXTINF:-1, SOMOS 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840168
+#EXTINF:-1, MOVISTAR ACCION 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840186
+#EXTINF:-1, MOVISTAR COMEDIA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840185
+#EXTINF:-1, MOVISTAR DRAMA 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840184
+#EXTINF:-1,  MOVISTAR CINE ESPAOL  
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840180
+#EXTINF:-1, MOVISTAR ORIGINALES 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840183
+#EXTINF:-1, MOVISTAR CLASICOS 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840182
+#EXTINF:-1, MOVISTAR ESTRENOS 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840181
+#EXTINF:-1, MOVISTAR INDIE 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840177
+#EXTINF:-1, RED BULL TV RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855869
+#EXTINF:-1, DAZN 1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855892
+#EXTINF:-1, DAZN 1 RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855879
+#EXTINF:-1, DAZN F1 RAW 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855877
+#EXTINF:-1, DAZN 1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839951
+#EXTINF:-1, DAZN 1 SD
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839960
+#EXTINF:-1, DAZN 1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839966
+#EXTINF:-1, DAZN F1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855890
+#EXTINF:-1, DAZN F1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839967
+#EXTINF:-1, DAZN F1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839953
+#EXTINF:-1, DAZN F1 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839952
+#EXTINF:-1, DAZN F1 SD
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839961
+#EXTINF:-1, DAZN 2 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855891
+#EXTINF:-1, DAZN 2 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839950
+#EXTINF:-1, DAZN 2 SD
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839959
+#EXTINF:-1, DAZN 2 
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839965
