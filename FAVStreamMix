@@ -20,7 +20,7 @@ http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839882
 #EXTINF:-1, HISTORIA 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839884
 #EXTINF:-1, CANAL DECASA 
-http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840206
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855897
 #EXTINF:-1, LA RESISTENCIA 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840096
 #EXTINF:-1, NATIONAL GEOGRAPHIC WILD 
@@ -67,15 +67,13 @@ http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855906
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855902
 #EXTINF:-1, TCM 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840163
-#EXTINF:-1, SOMOS 
-http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840168
 #EXTINF:-1, MOVISTAR ACCION 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840186
 #EXTINF:-1, MOVISTAR COMEDIA 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840185
 #EXTINF:-1, MOVISTAR DRAMA 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840184
-#EXTINF:-1,  MOVISTAR CINE ESPAOL  
+#EXTINF:-1, MOVISTAR CINE ESPAOL  
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840180
 #EXTINF:-1, MOVISTAR ORIGINALES 
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840183
@@ -115,5 +113,9 @@ http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855891
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839950
 #EXTINF:-1, DAZN 2 SD
 http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839959
-#EXTINF:-1, DAZN 2 
-http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/839965
+#EXTINF:-1, CANAL DECASA raw
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855897
+#EXTINF:-1, CANAL DECASA sd
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/840195
+#EXTINF:-1, CANAL DECASA hd
+http://cf.cdnextra.edu.pl:80/d102d10d1092/d38a17c398/855917
